@@ -184,13 +184,21 @@ nav.main-nav a {
     top: 8px;
     right: 6px;
     padding: 8px 12px;
-    color: #5badf0;
+    color: #222;
     font-size: 13px;
     font-weight: 500;
     line-height: 1.35;
     border-radius: 3px;
 }
 
+nav.main-nav a:hover{
+    color: #5694f1;
+}
+
+nav.main-nav #logo{
+  width: 32px;
+  float: left;
+}
 nav.main-nav a.cta {
     background: #5badf0;
     color: #fff;
@@ -248,7 +256,6 @@ nav.main-nav a.cta {
 
 a, #title, #post-list a:hover, #title:hover {
     text-decoration: none;
-    color: #5badf0;
     color: #5694f1;
 }
 
@@ -287,6 +294,8 @@ ul>li {
 
 #post-body, p {
     line-height: 1.7;
+    font-size: 18px;
+    margin-bottom: 32px;
 }
 #post-body p > a {
   word-break: break-word;
@@ -357,9 +366,9 @@ em, i {
 }
 
 .post h2.headline .tags {
-    font: normal 13px/1.5em "Montserrat", Helvetica, Arial, sans-serif;
+    font: 500 13px/1.5em "Montserrat", Helvetica, Arial, sans-serif;
     margin: -5px 0 40px 0;
-    color: #b2b9be;
+    color: #5694f1;
     font-size: 13px;
     text-transform: uppercase;
     letter-spacing: 2px;

@@ -35,7 +35,7 @@ hasCJKLanguage = false
 	home = ""
 	about = ""
 	archive = ""
-	subscribe = ""
+	subscribe = "RSS"
 
 	olderPosts = ""
 	newerPosts = ""
@@ -58,6 +58,9 @@ hasCJKLanguage = false
 	iconFont = "font-awesome"
   # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
   socialIconStyle = ""
+
+[menu]
+    twitter  = "https://www.twitter.com/andresmax"
 
 # Add additional social link entries underneath
 [social]

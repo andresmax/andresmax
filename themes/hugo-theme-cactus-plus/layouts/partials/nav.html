@@ -1,4 +1,5 @@
 <nav class="main-nav">
+	<a href='{{ .Site.BaseURL }}'><img id="logo" src="{{ .Site.BaseURL }}images/Logo-AM-Black.png"/></a>
 	{{ $url := replace .Permalink .Site.BaseURL "" }}
 	{{ if not .IsHome }}
 		<a href='{{ .Site.BaseURL }}'> <span class="arrow">←</span>{{ with .Site.Params.home }}{{ . }}{{ else }}Home{{ end }}</a>
@@ -12,6 +13,6 @@
 	{{ end }}
 
 	{{ if .Site.Params.enableRSS }}
-	<a class="cta" href="{{ .Site.RSSLink }}">{{ with .Site.Params.subscribe }}{{ . }}{{ else }}Subscribe{{ end }}</a>
+	<a href="{{ .Site.RSSLink }}">{{ with .Site.Params.subscribe }}{{ . }}{{ else }}Subscribe{{ end }}</a>
 	{{ end }}
 </nav>
