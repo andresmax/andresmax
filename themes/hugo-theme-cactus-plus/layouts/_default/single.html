@@ -40,8 +40,13 @@
                 </section>
             </article>
 
+
             {{ if .Site.Params.enableShare }}
                 {{ partial "share.html" . }}
+            {{ end }}
+
+            {{ if .Site.Params.enableMailchimp }}
+                {{ partial "mailchimp.html" . }}
             {{ end }}
 
             {{ if .Site.Params.enableDisqus }}

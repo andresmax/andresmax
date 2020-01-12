@@ -7,11 +7,41 @@ menu = "main"
 layout = "page_title"
 +++
 
-<form action="https://getform.io/f/09d27e47-0e17-4d36-ba76-85b710248a7d" method="POST">
+<form id="contactForm" action="https://getform.io/f/09d27e47-0e17-4d36-ba76-85b710248a7d" method="POST" onsubmit="return validateForm()">
 
+  <div id="form-group">
+    <label>Name</label>
     <input type="text" name="name">
+  </div>
+  <div id="form-group">
+    <label>Email</label>
     <input type="email" name="email">
-    <input type="tel" name="tel">
-    <button type="submit">Send</button>
-
+  </div>
+  <div id="form-group">
+    <label>Message</label>
+    <textarea name="message" placeholder="How can I help?" rows=14></textarea>
+  </div>
+  <div id="form-group">
+    <button class="cta" type="submit">Send</button>
+  </div>
 </form>
+
+<script>
+function validateForm() {
+  var x = document.forms["contactForm"]["name"].value;
+  if (x == "" || x == null) {
+    alert("Name must be filled out");
+    return false;
+  }
+  var x = document.forms["contactForm"]["email"].value;
+  if (x == "" || x == null) {
+    alert("Email must be filled out");
+    return false;
+  }
+  var x = document.forms["contactForm"]["message"].value;
+  if (x == "" || x == null) {
+    alert("What! No message?");
+    return false;
+  }
+}
+</script>
