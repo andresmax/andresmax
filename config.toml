@@ -34,6 +34,7 @@ hasCJKLanguage = false
 	# Navigation links
 	home = ""
 	about = ""
+	podcast = ""
 	archive = ""
 	subscribe = "RSS"
 

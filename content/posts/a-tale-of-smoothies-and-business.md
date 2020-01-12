@@ -3,6 +3,7 @@ title: 'A tale of smoothies and business'
 date: Thu, 02 Jan 2020 14:16:22 +0000
 draft: false
 tags: ['Entrepreneurship']
+image: 'smoothie.jpg'
 ---
 
 Two days ago I left the gym just before 9am. I was thirsty and hungry when I walked by a smoothie stand.

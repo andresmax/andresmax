@@ -5,6 +5,11 @@
         <section id="wrapper" class="post">
             <article>
                 <header>
+
+                  {{ if .Params.Image  }}
+                    <img id="post-image" src="{{ .Site.BaseURL }}{{ .Params.Image }}"/>
+                  {{ end }}
+
                     <h1>
                         {{ .Title }}
                     </h1>
