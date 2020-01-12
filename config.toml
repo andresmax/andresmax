@@ -2,22 +2,21 @@ baseURL = "http://andresmax.com"
 languageCode = "en-us"
 title = "Andrés Max"
 theme = "hugo-theme-cactus-plus"
-# Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
-# Disable comments by leaving disqusShortname empty
+
+googleAnalytics = "UA-2687767-4"
 hasCJKLanguage = false
 
 [params]
 	name = "Andrés Max"
 	description = "Describe your website"
-	bio = "I design, build and break things."
+	bio = "I design, make and break things."
 	# Enter optionally your twitter account
 	twitter = "andresmax"
 
 	author = "Andrés Max"
 
 	enableRSS = true
-  enableToc = true
+  enableToc = false
 
 	enableDisqus = false
 	disqusShortname = "your_disqus_short_name"
@@ -37,6 +36,7 @@ hasCJKLanguage = false
 	home = ""
 	about = ""
 	podcast = ""
+	now = ""
 	archive = ""
 	subscribe = "RSS"
 
@@ -54,16 +54,13 @@ hasCJKLanguage = false
 	share = ""
 
 	# 404 page
-	title404 = ""
-	subtitle404 = ""
+	title404 = "Oh no!"
+	subtitle404 = "The interwebs lost this."
 
 	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
 	iconFont = "font-awesome"
   # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
   socialIconStyle = ""
-
-[menu]
-    twitter  = "https://www.twitter.com/andresmax"
 
 # Add additional social link entries underneath
 [social]

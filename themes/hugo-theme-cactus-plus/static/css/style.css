@@ -131,10 +131,6 @@ h1 {
     font-weight: bold;
 }
 
-h2 {
-    font: italic 19px/1.3em 'Montserrat', sans-serif;
-    color: #bbb;
-}
 
 .profile #wrapper {
     padding: 60px 40px 0px;
@@ -282,7 +278,8 @@ ul {
 li {
     list-style-position: outside;
     /* text-indent: -1.5em; */
-    margin-left: 1.5em;
+    margin-left: 1em;
+    margin-bottom: 20px;
 }
 
 ul>li {
@@ -334,8 +331,11 @@ em, i {
 }
 
 .home h2 {
-    font: italic 19px/1.3em Georgia, serif;
-    color: #bbb;
+  font-size: 24px;
+  letter-spacing: -1px;
+  color: #222;
+  font-weight: 500;
+  margin-bottom: 42px;
 }
 
 .post header {

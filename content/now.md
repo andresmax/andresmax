@@ -1,19 +1,19 @@
----
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-draft: true
-image: /images/{{ .Name }}.jpg
-type: post
-tags:
-  - Entrepreneurship
-  - Tech
-  - Design
-  - Personal
-  - Productivity
-  - Software
-  - Thoughts
----
-<!--more-->
++++
+date = "2020-01-12T00:17:56-05:00"
+title = "Now"
+hidden = true
+menu = "main"
+type = "page"
+layout = "page"
++++
+
+## What I'm working on now
+
+***
+
+### Other projects
+
+***
 
 I publish on [YouTube][1] and [andresmax.com][2], you can also listen to my podcast on entrepreneurship and life at [anchor.fm/ideatalks][3]
 
