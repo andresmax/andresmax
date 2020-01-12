@@ -2,7 +2,7 @@
 title: 'Tips For Landing That Design/Development Job'
 date: Wed, 24 Apr 2013 22:42:33 +0000
 draft: false
-tags: ['design', 'development', 'donts', 'dos', 'job', 'tips', 'Uncategorized']
+tags: ['Tech']
 ---
 
 I run a digital creative agency called [Ideaware](http://ideaware.co), as part of my job I receive and filter resumes looking for talent to join our team.

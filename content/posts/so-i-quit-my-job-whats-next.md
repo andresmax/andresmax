@@ -2,7 +2,7 @@
 title: 'So I quit my job, what''s next?'
 date: Fri, 10 Sep 2010 16:46:00 +0000
 draft: false
-tags: ['career', 'personal', 'Uncategorized']
+tags: ['Personal']
 ---
 
 Last week I quit my job as CTO at koombea, I had worked there for three years and made some very good friends and built some very awesome products. First of all, I want to thank everyone over there for making it one of the most fun work experiences I’ve ever had and I also want to thank @jonathant for being such a good friend and excellent business partner. I would work any day again with this guy.

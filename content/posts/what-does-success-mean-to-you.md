@@ -2,7 +2,7 @@
 title: 'What Does Success Mean To You?'
 date: Thu, 29 Oct 2015 13:22:57 +0000
 draft: false
-tags: ['Entrepreneurship']
+tags: ['Thoughts']
 ---
 
 Have you ever heard about the [entrepreneurial rollercoaster](http://fourhourworkweek.com/2008/10/03/harnessing-entrepreneurial-manic-depression-making-the-rollercoaster-work-for-you/)?

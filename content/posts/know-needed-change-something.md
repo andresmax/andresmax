@@ -2,7 +2,7 @@
 title: 'I Know I Needed To Change Something'
 date: Wed, 22 Oct 2014 14:00:47 +0000
 draft: false
-tags: ['Entrepreneurship']
+tags: ['Personal']
 ---
 
 My all time favorite quote was said by Steve Jobs back in 2005 during his Stanford speech:

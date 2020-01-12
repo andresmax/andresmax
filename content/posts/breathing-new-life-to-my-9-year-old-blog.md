@@ -2,7 +2,7 @@
 title: 'Breathing new life to my 9 year old blog'
 date: Wed, 02 Jan 2019 17:38:07 +0000
 draft: false
-tags: ['Entrepreneurship']
+tags: ['Personal']
 ---
 
 The holidays are officially now over, and aside from me working on a new app I also worked on my blog.

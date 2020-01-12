@@ -2,7 +2,7 @@
 title: 'The illusion of being busy'
 date: Tue, 27 Oct 2015 21:02:20 +0000
 draft: false
-tags: ['Uncategorized']
+tags: ['Productivity']
 ---
 
 Have you ever had a very busy day or week at which’s end you feel like you got absolutely nothing done? Of course you have.

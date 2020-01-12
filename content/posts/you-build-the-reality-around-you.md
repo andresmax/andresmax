@@ -2,7 +2,7 @@
 title: 'You Build The Reality Around You'
 date: Sat, 18 Oct 2014 14:31:33 +0000
 draft: false
-tags: ['Entrepreneurship']
+tags: ['Thoughts']
 ---
 
 Just today I read a blog post from my friend Dan Martell called "[No Excuses](http://www.danmartell.com/no-excuses/)", he says:

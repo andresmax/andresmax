@@ -2,7 +2,7 @@
 title: 'Being an Entrepreneur Outside the Valley'
 date: Wed, 20 Nov 2013 12:48:00 +0000
 draft: false
-tags: ['company', 'entrepeneur', 'tech', 'Uncategorized']
+tags: ['tech']
 ---
 
 Silicon Valley is a great place to be to start a tech company. You will have access to Angel Investors and VCs, will be able to meet up with similar minded folks and even find a mentor to help you on your way.

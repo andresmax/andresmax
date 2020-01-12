@@ -8,11 +8,13 @@ googleAnalytics = ""
 hasCJKLanguage = false
 
 [params]
-	name = "Andres Max"
+	name = "Andrés Max"
 	description = "Describe your website"
 	bio = "I design, build and break things."
 	# Enter optionally your twitter account
 	twitter = "andresmax"
+
+	author = "Andrés Max"
 
 	enableRSS = true
   enableToc = true
@@ -67,4 +69,6 @@ hasCJKLanguage = false
 [social]
     twitter  = "https://www.twitter.com/andresmax"
     github   = "https://www.github.com/andresmax"
-    dribble  = "https://www.dribbble.com/andresmax"
+    dribbble  = "https://www.dribbble.com/andresmax"
+		instagram  = "https://instagram.com/andresmax"
+		youtube  = "https://youtube.com/andresmax"

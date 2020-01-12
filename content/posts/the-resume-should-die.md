@@ -2,7 +2,7 @@
 title: 'The Resume As We Know It Should Die'
 date: Tue, 05 Aug 2014 16:06:12 +0000
 draft: false
-tags: ['Uncategorized']
+tags: ['Tech']
 ---
 
 I recently removed the file upload field from the 'Apply for a job' form on the new soon-to-be-live Ideaware website. It was a quick change, it uncluttered the form. Why did I remove it? Simple, I don't review resumes anymore. I haven't done so for a long time. This lead me to thinking on how Tech companies usually approach the hiring process (from my and other fellow Entrepreneurs experience): take a look at code on Github, designs on their Dribbble profile and review their LinkedIn page. A personal, well-built portfolio website is always a big plus. **Here's why a resume sucks (and should die):**

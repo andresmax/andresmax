@@ -2,7 +2,7 @@
 title: 'Resolutions suck, do this instead'
 date: Thu, 03 Jan 2019 17:20:54 +0000
 draft: false
-tags: ['Entrepreneurship']
+tags: ['Productivity']
 ---
 
 You might be thinking: oh wow another new year’s resolution post by someone I don’t know. Guess what? **You’re right!**
