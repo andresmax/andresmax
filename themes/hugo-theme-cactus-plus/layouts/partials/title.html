@@ -4,8 +4,8 @@
       <a href='{{ with .Site.Params.avatarLink }}{{ . }}{{ else }}{{ .Site.BaseURL }}about{{ end }}'>
         <img id="avatar" class="2x" src="{{ .Site.BaseURL }}images/avatar.png" />
       </a>
-      <h1>👋 I’m Andrés Max.</h1>
-      {{ with .Site.Params.bio }}
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.subhead }}
       <h2>{{ . | markdownify }}</h2>{{ end }}
     </header>
   </section>

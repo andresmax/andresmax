@@ -1,17 +1,24 @@
-\+++
++++
 date = "2020-01-12T00:17:56-05:00"
-title = "Now"
+title = "What I’m working on now"
+subhead = "I have a curse: I can't stop making things"
 hidden = true
 menu = "main"
 type = "page"
-layout = "page"
-\+++
+layout = "page_title"
++++
 
-## What I'm working on now
+### Main focus
+
+- things
+- more things
 
 * * *
 
-### Other projects
+### On the side
+
+- things
+- more things
 
 * * *
 
