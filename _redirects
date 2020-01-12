@@ -1,7 +1,1 @@
-# *** Warning! Your custom domain is not using HTTPS yet ***
-# These rules will change if you change your site’s custom domains or HTTPS settings
-
 /blog/*  /posts/:splat
-
-# Redirect default Netlify subdomain to primary domain
-https://andresmax.netlify.com/* https://www.andresmax.com/:splat 301!
