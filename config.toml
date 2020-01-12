@@ -1,4 +1,4 @@
-baseURL = "https://andresmax.netlify.com/"
+baseURL = "https://www.andresmax.com/"
 languageCode = "en-us"
 title = "Andrés Max"
 theme = "hugo-theme-cactus-plus"
