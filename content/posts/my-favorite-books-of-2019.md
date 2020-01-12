@@ -1,7 +1,7 @@
 ---
 title: "My Favorite Books of 2019"
 date: 2020-01-12T10:23:18-05:00
-draft: false
+draft: true
 type: post
 tags:
   - Personal
