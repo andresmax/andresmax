@@ -27,7 +27,6 @@ Do things right, do your research, write a better pitch. In the end the race is 
 
 As you go, you will find gaps in your experience or knowledge on a subject. Pick up the best resources you can and take it from there. Fill in the gaps as they appear.
 
-Make it happen, in your own terms
----------------------------------
+## Make it happen, in your own terms
 
 I’m a husband, very present dad, I run two companies, I consult, working on 2 SaaS products, I’m trying to get healthier by getting more exercise, I’m working on my wellbeing by working on my mind & soul, I like to be with friends and family. Could I get all of this done if I rushed everything? Hell no. Or at least, very poorly. So I’m pacing myself and so should you. Just sharing a little bit of learned lessons in the past year with you. 😊 _Rock on._
