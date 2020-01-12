@@ -11,6 +11,8 @@ I’ve always loved great visual design and building software. That led me to be
 
 Since then I’ve founded multiple SaaS products. Currently I help software founders scale nearshore software teams.
 
+I believe you can achieve success by also living a calm and happy life.  
+
 * * *
 
 ## My Story

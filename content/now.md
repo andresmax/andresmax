@@ -10,15 +10,20 @@ layout = "page_title"
 
 ### Main focus
 
-- things
-- more things
+- Scaling [Ideaware](https://ideaware.co) by providing 70 new jobs by 2021
+- Launching [Wikit](https://wikit.io)
+- Secret SaaS Fintech product
+- My health
+- Raising my two boys
 
 * * *
 
 ### On the side
 
-- things
-- more things
+- Youtube videos
+- IoT tinkering
+- Online/digital security
+- Switching to Linux/OSS
 
 * * *
 
