@@ -16,7 +16,7 @@ hasCJKLanguage = false
 	author = "Andrés Max"
 
 	enableRSS = true
-  enableToc = false
+    enableToc = false
 
 	enableDisqus = false
 	disqusShortname = "your_disqus_short_name"
