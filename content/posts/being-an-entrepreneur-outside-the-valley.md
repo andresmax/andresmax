@@ -7,6 +7,8 @@ tags: ['tech']
 
 Silicon Valley is a great place to be to start a tech company. You will have access to Angel Investors and VCs, will be able to meet up with similar minded folks and even find a mentor to help you on your way.
 
+<!--more-->
+
 But not all great tech companies are in the valley. Take Shopify, Snapchat, Clarity.fm, and of course Ideaware for starters.
 
 I’ve been in the tech scene for 10+ years, working with startups and companies helping them with their products (design, development, user testing, you name it), but I’ve never moved to the valley, why? never had to. Here are my thoughts on the matter:

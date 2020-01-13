@@ -7,6 +7,8 @@ tags: ['Tech']
 
 I run a digital creative agency called [Ideaware](http://ideaware.co), as part of my job I receive and filter resumes looking for talent to join our team.
 
+<!--more-->
+
 Every once in a while I get an email from an applicant that really stands out from the rest, but most of the time I will just let them slip.
 
 Landing that job at your dream company (\*cough\* Ideaware) is not that hard actually, it just takes a bit of originality and showing off your work.
