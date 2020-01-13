@@ -179,9 +179,9 @@ nav.main-nav {
 nav.main-nav a {
     top: 8px;
     right: 6px;
-    padding: 8px 12px;
+    padding: 8px 8px;
     color: #222;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 500;
     line-height: 1.35;
     border-radius: 3px;
@@ -191,10 +191,20 @@ nav.main-nav a:hover{
     color: #5694f1;
 }
 
-nav.main-nav #logo{
+#logo{
   width: 32px;
   float: left;
+  margin: 20px;
 }
+
+.icon{
+  float: right;
+  margin: 20px;
+  display: none;
+  color: #222;
+  outline: 0;
+}
+
 nav.main-nav a.cta {
     background: #5badf0;
     color: #fff;
@@ -202,22 +212,38 @@ nav.main-nav a.cta {
 }
 @media (max-width: 700px) {
   nav.main-nav {
-      padding: 20px 10px 0 0;
+      padding: 20px 0;
       background: #fff;
       background: rgba(255, 255, 255, .90);
       margin: 0 auto;
-      text-align: right;
+      text-align: center;
       z-index: 100;
+      overflow: hidden;
+      width: 100%;
+      display: none;
+      -webkit-transition: height 1s ease-in-out;
+-moz-transition: height 1s ease-in-out;
+-ms-transition: height 1s ease-in-out;
+-o-transition: height 1s ease-in-out;
+transition: height 1s ease-in-out;
   }
+
+  .icon{
+    float: right;
+    margin: 20px;
+    display: inline-block;
+  }
+
   nav.main-nav a {
-      top: 8px;
-      right: 6px;
-      padding: 8px 8px;
-      color: #5badf0;
-      font-size: 13px;
-      line-height: 1.35;
-      border-radius: 3px;
+    min-height: 48px;
+    width: 100%;
+    display: block;
+    font-size: 1.2em;
+    /* border: 1px solid red; */
   }
+
+  nav.main-nav.responsive{display: block;}
+
 }
 @media (max-width: 324px) {
     nav.main-nav a.cta {
