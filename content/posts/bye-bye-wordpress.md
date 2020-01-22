@@ -15,7 +15,7 @@ So long Wordpress, and thanks for all the fish.
 
 This blog has gone wordpress-free!
 
-Wordpress has been my go to CMS for all my sites for, *erm, 12 years maybe?* , and during that time I've watched it turn into a bloated mess of a CMS-platform-ecosystem thing.
+Wordpress has been my go to CMS for all my sites for, _erm, 12 years maybe?_ , and during that time I've watched it turn into a bloated mess of a CMS-platform-ecosystem thing.
 
 The constant hacking of the platform.
 
@@ -43,6 +43,8 @@ You can find the public code for this site and template in my [Github repo](http
 
 I publish on [YouTube][1] and [andresmax.com][2], you can also listen to my podcast on entrepreneurship and life at [anchor.fm/andresmax][3]
 
- [1]: https://www.youtube.com/andresmax
- [2]: https://www.andresmax.com
- [3]: https://anchor.fm/andresmax
+[1]: https://www.youtube.com/andresmax
+
+[2]: https://www.andresmax.com
+
+[3]: https://anchor.fm/andresmax
