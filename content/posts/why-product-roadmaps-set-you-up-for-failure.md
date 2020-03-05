@@ -7,36 +7,42 @@ type: post
 tags:
   - Software
 ---
-For 12 years I've worked with SaaS product teams. Many have been successful in launching and generating revenue, others failed to ship. It all comes down to your product roadmap.
+For over 12 years I've worked with SaaS product teams. Many have been successful in launching and generating revenue, others failed to ship. It all comes down to your product roadmap.
 
 <!--more-->
 
-As a product manager (or owner) what is the first thing you think of when you want to ship a product? 
+As a product manager (or owner) what is the first thing you think of when you want to ship a product?
 
-Chances are you want to put together a roadmap for your product. Build it, ship it and keep following your roadmap.
+Chances are you want to put together a roadmap for your product.
+
+Build it, ship it and keep following your roadmap.
 
 Nothing wrong with having a roadmap to release your MVP, but after you ship that first version roadmaps turn into dangerous beasts.
 
-See, roadmaps limit your scope and vision to what you, your stakeholders and your team *thinks* that needs to be built. This is a dangerous situation to be in because you are basically building in the dark without external input from important stakeholders, like _uhm_, you know, your customers!
+See, roadmaps limit your scope and vision to what you, your stakeholders and your team *thinks* that needs to be built. This is a dangerous situation to be in because you are basically building in the dark without external input from important stakeholders, like _uhm_, you know - your customers!
 
 
 ## Problem
 
-The problem with the traditional roadmap comes down that it is just a timeline. One big list of feature after feature spread out over a calendar. Something new comes in? Add it to the list, estimate it, done. 
+The problem with the traditional roadmap comes down that it is just a timeline. One big list of feature after feature spread out over a calendar.
+
+If something new comes in you add it to the list, estimate it, done.
 
 Again, this may work out really early stage when you are building out an MVP, but it hurts the product, the release schedule and ultimately your customer if you are not careful.
 
 ### Heres why:
 
-Building an MVP should be quick and within 6 to 12 months, during this time you are building a very limited feature set to get out there and gather feedback. (Though I would instead recommend a different approach: gather feedback even earlier than your first line of code, but I'll talk about that in another post).
+Building an MVP should be quick a quick 6 to 12 month process.
 
-The problem comes when you keep adding (after your MVP) to your timeline/roadmap, also called a Gantt chart, as your main tool for a release cycle.
+During this time you are building a very limited feature set to get out there and gather feedback. (Though I would instead recommend a different approach: gather feedback even earlier than your first line of code, but I'll talk about that in another post).
+
+The problem comes when you keep adding (after your MVP) to your timeline/roadmap (sometimes in the shape of a [Gantt chart](https://en.wikipedia.org/wiki/Gantt_chart)) as your main tool for a release cycle.
 
 ### Why is it a problem?
 
-Simple: Roadmaps make it easy to ignore stakeholders, budget, time, and most importantly your customers.
+Simple: Roadmaps make it easy to ignore stakeholders, budget, time, and most importantly: your customers.
 
-You are essentially building a black box of ideas to pick from and build. 
+You are essentially building a black box of ideas to pick from and build.
 
 And the further away you stretch out your roadmap/timeline, the more you are making things up:
 
@@ -53,21 +59,21 @@ Your customers might be screaming at you at what they need/want, and your PM dec
 
 So your timeline roadmap is just a way of keeping stakeholders happy.
 
-Oh and stakeholders love themeselves a Gantt chart, it means they can toss in there whatever they want.
+Oh and stakeholders love themselves a Gantt chart, it means they can toss in there whatever they want.
 
 ![Real Stakeholder](/images/omg.gif)
 
-Then there is also the risk that you are making assumptions in a timeline based roadmap, it is literally impossible to know how much something is going to take ther further down it is.
+Then there is also the risk that you are making assumptions in a timeline based roadmap, it is literally impossible to know how much something is going to take the further down it is.
 
-Also, the market may change. Your competitors may launch a huge update. God forbid you need to change your plans.
+The market may also change. Your competitors may launch a huge update. God forbid you need to change your plans.
 
 And then there's tech debt. And feature creep.
 
 We should look at products as iterations.
 
-First release the MVP, then iterate. 
+First release the MVP, then iterate.
 
-Iterate on what? Well, do it based on market, customers and feedback. That way you end up finding ther right market fit and happy customers.
+Iterate on what? Well, do it based on market, customers and feedback. That way you end up finding the right market fit and happy customers.
 
 ## A Better Approach: RICE
 
@@ -77,15 +83,15 @@ Done? Great! So what's next?
 
 There's a better way. A way bestowed upon us by the Jedi Masters of Products themselves. Baby Yoda would be proud.
 
-It is simple really: prioritize instead of adding to a timeline.
+It's simple really: prioritize instead of adding to a timeline.
 
-Prioritize your features based on how they impact your product goals and your customers. 
+Prioritize your features based on how they impact your product goals and your customers.
 
 To do so I want to introduce you to **RICE (Reach, Impact, Confidence and Effort)**.
 
 _Disclaimer: I didn't coin this term or the framework itself, in fact it is a scoring model that's been around for years and used by companies like Google and Intercom just to name two._
 
-RICE is a simple to use method of prioritizing what features you should be working on based on which are the least effort but at the same time provide the most impact. 
+RICE is a simple to use method of prioritizing what features you should be working on based on which are the least effort but at the same time provide the most impact.
 
 A simple way to do this is to add all your features from your internal roadmap, requests from customers, nice to haves, etc into one column of a spreadsheet.
 
@@ -102,19 +108,16 @@ Here's what each of the columns mean:
 - **RICE Score** - The RICE score, sort by this column to find out what you should be working on first.
 
 
-Add reach impact, confidence and effort columns, and add numbers like this:
+Here's a quick video on how RICE works:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kGJYVPeGdMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
 
 
 That's it.
 
 The results, while not perfect or all-telling, speak for themselves: **a prioritized backlog that lets you know what features have both the lowest effort and the highest impact in your business**.
 
-Work on those first. 
+Work on those first.
 
 Release, ask for feedabck, iterate.
 
@@ -124,7 +127,7 @@ Remember, your roadmap is not meant to be a perfect plan of everything you're do
 
 At the end of the day, the value isn't in the 'roadmap' itself. It's in the process of roadmapping, which is inherently a discovery process.
 
-Thanks for reading and watching! 
+Thanks for reading and watching!
 
 **PS: If you liked this article, please share to let me know I should make more like this!**
 
