@@ -7,7 +7,7 @@ type: post
 tags:
   - Software
 ---
-For 12 I've worked with SaaS product teams. Many have been successful in launching and generating revenue, others failed to ship. It all comes down to your product roadmap.
+For 12 years I've worked with SaaS product teams. Many have been successful in launching and generating revenue, others failed to ship. It all comes down to your product roadmap.
 
 <!--more-->
 
