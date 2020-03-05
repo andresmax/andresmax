@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on Andrés Max</title>
+    <link>https://www.andresmax.com/tags/design/</link>
+    <description>Recent content in Design on Andrés Max</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Oct 2015 14:12:43 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.andresmax.com/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lazy Designers Are The Best Designers</title>
+      <link>https://www.andresmax.com/posts/good-design-is-as-little-design-as-possible/</link>
+      <pubDate>Fri, 16 Oct 2015 14:12:43 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/good-design-is-as-little-design-as-possible/</guid>
+      <description>&lt;p&gt;Recently I published a piece on the Ideaware blog called &lt;a href=&#34;http://ideaware.co/good-design-little-design-possible/&#34;&gt;Good design is as little design as possible&lt;/a&gt;, it has turned into one of our all-star posts.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Negotiate Time, Not Quality</title>
+      <link>https://www.andresmax.com/posts/negotiate-time-not-quality/</link>
+      <pubDate>Tue, 21 Oct 2014 14:00:42 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/negotiate-time-not-quality/</guid>
+      <description>&lt;p&gt;I was very naive at negotiating when I first started &lt;a href=&#34;http://ideaware.co&#34;&gt;Ideaware&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Top 10 Questions To Ask Your Next Design Client</title>
+      <link>https://www.andresmax.com/posts/10-things-ask-every-new-client/</link>
+      <pubDate>Wed, 30 Jul 2014 10:15:39 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/10-things-ask-every-new-client/</guid>
+      <description>&lt;p&gt;New projects and clients are always usually exciting. The possibilities are endless, the hair-pulling feedback limitless!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

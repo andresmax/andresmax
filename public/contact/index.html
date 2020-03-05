@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en-us">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+			
+  
+    <meta name="twitter:card" content="summary"/>
+    
+      <meta name="twitter:image" content="https://www.andresmax.com/images/avatar.png" />
+    
+  
+  
+  <meta name="twitter:title" content="Let&#39;s talk"/>
+  <meta name="twitter:description" content="Name  Email  Message   Send    function validateForm() { var x = document.forms[&#34;contactForm&#34;][&#34;name&#34;].value; if (x == &#34;&#34; || x == null) { alert(&#34;Name must be filled out&#34;); return false; } var x = document.forms[&#34;contactForm&#34;][&#34;email&#34;].value; if (x == &#34;&#34; || x == null) { alert(&#34;Email must be filled out&#34;); return false; } var x = document.forms[&#34;contactForm&#34;][&#34;message&#34;].value; if (x == &#34;&#34; || x == null) { alert(&#34;"/>
+  
+    <meta name="twitter:site" content="@andresmax"/>
+  
+  
+  
+  
+    <meta name="twitter:creator" content="@Andrés Max"/>
+  
+
+
+
+		
+		<meta name="author" content="Andrés Max">
+		<meta name="description" content="Describe your website">
+		<meta name="generator" content="Hugo 0.59.1" />
+		<title>Let&#39;s talk &middot; Andrés Max</title>
+		<link rel="shortcut icon" href="https://www.andresmax.com/images/favicon.ico">
+		<link rel="stylesheet" href="https://www.andresmax.com/css/style.css">
+		<link rel="stylesheet" href="https://www.andresmax.com/css/highlight.css">
+
+		
+		<link rel="stylesheet" href="https://www.andresmax.com/css/font-awesome.min.css">
+		
+
+		
+		<link href="https://www.andresmax.com/index.xml" rel="alternate" type="application/rss+xml" title="Andrés Max" />
+		
+
+		
+	</head>
+
+<body>
+<a href='https://www.andresmax.com/'><img id="logo" src="https://www.andresmax.com/images/Logo-AM-Black.png"/></a>
+
+<a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+</a>
+
+<nav class="main-nav" id="myTopnav">
+
+	
+	
+		<a href='https://www.andresmax.com/'> <span class="arrow">←</span>Home</a>
+	
+	<a href='https://www.andresmax.com/about'>About</a>
+	<a href='https://www.andresmax.com/now'>Now</a>
+
+	<a href='https://youtube.com/andresmax' target="_blank">📺 Youtube</a>
+
+	<a href='https://www.andresmax.com/posts'>Archive</a>
+
+	<a href='https://www.andresmax.com/contact'>Contact</a>
+
+	
+
+	
+	<a href="https://www.andresmax.com/index.xml">RSS</a>
+	
+
+</nav>
+
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "main-nav") {
+    x.className += " responsive";
+  } else {
+    x.className = "main-nav";
+  }
+}
+</script>
+
+<div class="profile">
+  <section id="wrapper">
+    <header id="header">
+      <a href='https://www.andresmax.com/about'>
+        <img id="avatar" class="2x" src="https://www.andresmax.com/images/avatar.png" />
+      </a>
+      <h1>Let&#39;s talk</h1>
+      
+      <h2>Feel free to send me a note below if there is anything I can help with.</h2>
+    </header>
+  </section>
+</div>
+
+
+<section id="wrapper" class="home">
+    
+<form id="contactForm" name="contact" method="POST" data-netlify="true">
+
+  <div id="form-group">
+    <label>Name</label>
+    <input type="text" name="name">
+  </div>
+  <div id="form-group">
+    <label>Email</label>
+    <input type="email" name="email">
+  </div>
+  <div id="form-group">
+    <label>Message</label>
+    <textarea name="message" placeholder="How can I help?" rows=14></textarea>
+  </div>
+  <div id="form-group">
+    <button class="cta" type="submit">Send</button>
+  </div>
+</form>
+
+<script>
+function validateForm() {
+  var x = document.forms["contactForm"]["name"].value;
+  if (x == "" || x == null) {
+    alert("Name must be filled out");
+    return false;
+  }
+  var x = document.forms["contactForm"]["email"].value;
+  if (x == "" || x == null) {
+    alert("Email must be filled out");
+    return false;
+  }
+  var x = document.forms["contactForm"]["message"].value;
+  if (x == "" || x == null) {
+    alert("What! No message?");
+    return false;
+  }
+}
+</script>
+
+
+    
+
+    <footer id="footer">
+    
+        <div id="social">
+
+	
+	
+    <a class="symbol" href="https://www.dribbble.com/andresmax">
+        <i class="fa fa-dribbble"></i>
+    </a>
+    
+    <a class="symbol" href="https://www.github.com/andresmax">
+        <i class="fa fa-github"></i>
+    </a>
+    
+    <a class="symbol" href="https://instagram.com/andresmax">
+        <i class="fa fa-instagram"></i>
+    </a>
+    
+    <a class="symbol" href="https://www.twitter.com/andresmax">
+        <i class="fa fa-twitter"></i>
+    </a>
+    
+    <a class="symbol" href="https://youtube.com/andresmax">
+        <i class="fa fa-youtube"></i>
+    </a>
+    
+
+
+</div>
+
+    
+    <p class="small">
+    
+       © Copyright 2020 <i class="fa fa-heart" aria-hidden="true"></i> Andrés Max
+    
+    </p>
+    <p class="small">
+        Powered by <a href="http://www.gohugo.io/" target="_blank">Hugo</a>
+    </p>
+</footer>
+
+</section>
+
+<script src="https://www.andresmax.com/js/jquery-3.3.1.min.js"></script>
+<script src="https://www.andresmax.com/js/main.js"></script>
+<script src="https://www.andresmax.com/js/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+  
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-2687767-4', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+
+
+
+</body>

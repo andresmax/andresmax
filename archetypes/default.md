@@ -15,8 +15,7 @@ tags:
 ---
 <!--more-->
 
-I publish on [YouTube][1] and [andresmax.com][2], you can also listen to my podcast on entrepreneurship and life at [anchor.fm/andresmax][3]
+I publish on [YouTube][1] and [andresmax.com][2], you can also get my latest posts every two weeks in tour inbox by subscribing below 👇
 
  [1]: https://www.youtube.com/andresmax
  [2]: https://www.andresmax.com/
- [3]: https://anchor.fm/andresmax

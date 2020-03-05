@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Andrés Max</title>
+    <link>https://www.andresmax.com/tags/</link>
+    <description>Recent content in Tags on Andrés Max</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Jan 2020 08:02:56 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.andresmax.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Productivity</title>
+      <link>https://www.andresmax.com/tags/productivity/</link>
+      <pubDate>Wed, 29 Jan 2020 08:02:56 -0500</pubDate>
+      
+      <guid>https://www.andresmax.com/tags/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://www.andresmax.com/tags/tech/</link>
+      <pubDate>Wed, 29 Jan 2020 08:02:56 -0500</pubDate>
+      
+      <guid>https://www.andresmax.com/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entrepreneurship</title>
+      <link>https://www.andresmax.com/tags/entrepreneurship/</link>
+      <pubDate>Wed, 22 Jan 2020 07:30:26 -0500</pubDate>
+      
+      <guid>https://www.andresmax.com/tags/entrepreneurship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>https://www.andresmax.com/tags/personal/</link>
+      <pubDate>Sun, 12 Jan 2020 10:27:59 -0500</pubDate>
+      
+      <guid>https://www.andresmax.com/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>https://www.andresmax.com/tags/software/</link>
+      <pubDate>Wed, 16 Jan 2019 11:33:17 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thoughts</title>
+      <link>https://www.andresmax.com/tags/thoughts/</link>
+      <pubDate>Thu, 29 Oct 2015 13:22:57 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/tags/thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>https://www.andresmax.com/tags/design/</link>
+      <pubDate>Fri, 16 Oct 2015 14:12:43 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/tags/design/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

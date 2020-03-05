@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrés Max</title>
+    <link>https://www.andresmax.com/</link>
+    <description>Recent content on Andrés Max</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Jan 2020 08:02:56 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.andresmax.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The 30 Day Linux Challenge</title>
+      <link>https://www.andresmax.com/posts/the-30-linux-challenge/</link>
+      <pubDate>Wed, 29 Jan 2020 08:02:56 -0500</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/the-30-linux-challenge/</guid>
+      <description>&lt;p&gt;I challenged myself to drop Mac and Windows and use Linux only for 30 days. Here&amp;rsquo;s what I learned.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Embrace Change</title>
+      <link>https://www.andresmax.com/posts/embrace-change/</link>
+      <pubDate>Wed, 22 Jan 2020 07:30:26 -0500</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/embrace-change/</guid>
+      <description>&lt;p&gt;Holding on to situations for as long as we can is a source of pain in our lives.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bye Bye Wordpress</title>
+      <link>https://www.andresmax.com/posts/bye-bye-wordpress/</link>
+      <pubDate>Sun, 12 Jan 2020 10:27:59 -0500</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/bye-bye-wordpress/</guid>
+      <description>&lt;p&gt;So long Wordpress, and thanks for all the fish.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://www.andresmax.com/about/</link>
+      <pubDate>Sun, 12 Jan 2020 00:17:56 -0500</pubDate>
+      
+      <guid>https://www.andresmax.com/about/</guid>
+      <description>I’ve always loved great visual design and building software. That led me to become a Software Engineer and UX Designer. 10 years ago I quit my job and started Ideaware.
+Since then I’ve founded multiple SaaS products. Currently I help software founders scale nearshore software teams.
+I believe you can achieve success by also living a calm and happy life.
+My Story  2006 – Full time developer job, learned UX Design 2006-2010 – CTO and UX/UI designer jobs 2010 – Founded Ideaware 2010-2018 – Scaling Ideaware, consulting &amp;amp; helping founders Currently – 4 companies + dad.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s talk</title>
+      <link>https://www.andresmax.com/contact/</link>
+      <pubDate>Sun, 12 Jan 2020 00:17:56 -0500</pubDate>
+      
+      <guid>https://www.andresmax.com/contact/</guid>
+      <description>Name  Email  Message   Send    function validateForm() { var x = document.forms[&#34;contactForm&#34;][&#34;name&#34;].value; if (x == &#34;&#34; || x == null) { alert(&#34;Name must be filled out&#34;); return false; } var x = document.forms[&#34;contactForm&#34;][&#34;email&#34;].value; if (x == &#34;&#34; || x == null) { alert(&#34;Email must be filled out&#34;); return false; } var x = document.forms[&#34;contactForm&#34;][&#34;message&#34;].value; if (x == &#34;&#34; || x == null) { alert(&#34;</description>
+    </item>
+    
+    <item>
+      <title>What I’m working on now</title>
+      <link>https://www.andresmax.com/now/</link>
+      <pubDate>Sun, 12 Jan 2020 00:17:56 -0500</pubDate>
+      
+      <guid>https://www.andresmax.com/now/</guid>
+      <description>Main focus  Scaling Ideaware by providing 70 new jobs by 2021 Launching Wikit Secret SaaS Fintech product My health Raising my two boys  On the side  Youtube videos IoT tinkering Online/digital security Switching to Linux/OSS  I publish on YouTube and andresmax.com, you can also listen to my podcast on entrepreneurship and life at anchor.fm/ideatalks</description>
+    </item>
+    
+    <item>
+      <title>A tale of smoothies and business</title>
+      <link>https://www.andresmax.com/posts/a-tale-of-smoothies-and-business/</link>
+      <pubDate>Thu, 02 Jan 2020 14:16:22 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/a-tale-of-smoothies-and-business/</guid>
+      <description>&lt;p&gt;Two days ago I left the gym just before 9am. I was thirsty and hungry when I walked by a smoothie stand.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Why you should ignore your competitors</title>
+      <link>https://www.andresmax.com/posts/ignore-your-competitors/</link>
+      <pubDate>Wed, 03 Jul 2019 06:25:21 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/ignore-your-competitors/</guid>
+      <description>&lt;p&gt;I’ve never understood founders who build companies or products just as a reaction to what their competitors are doing.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Product backlogs need to die</title>
+      <link>https://www.andresmax.com/posts/product-backlogs-need-to-die/</link>
+      <pubDate>Wed, 16 Jan 2019 11:33:17 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/product-backlogs-need-to-die/</guid>
+      <description>&lt;p&gt;I’ve been building software for 11 years. I have to admit for the larger part of those 11 years, I’ve used product backlogs to get stuff out the door.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dream, start, go slow &amp; learn as you go</title>
+      <link>https://www.andresmax.com/posts/dream-start-go-slow-learn-as-you-go/</link>
+      <pubDate>Tue, 08 Jan 2019 14:06:32 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/dream-start-go-slow-learn-as-you-go/</guid>
+      <description>&lt;p&gt;The tech industry today moves fast as f$ck. It is insane, and can drive us (or, at least me) insane. Don’t get me wrong, I love the industry.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Resolutions suck, do this instead</title>
+      <link>https://www.andresmax.com/posts/resolutions-suck-do-this-instead/</link>
+      <pubDate>Thu, 03 Jan 2019 17:20:54 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/resolutions-suck-do-this-instead/</guid>
+      <description>&lt;p&gt;You might be thinking: oh wow another new year’s resolution post by someone I don’t know. Guess what? &lt;strong&gt;You’re right!&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Breathing new life to my 9 year old blog</title>
+      <link>https://www.andresmax.com/posts/breathing-new-life-to-my-9-year-old-blog/</link>
+      <pubDate>Wed, 02 Jan 2019 17:38:07 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/breathing-new-life-to-my-9-year-old-blog/</guid>
+      <description>&lt;p&gt;The holidays are officially now over, and aside from me working on a new app I also worked on my blog.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>What Does Success Mean To You?</title>
+      <link>https://www.andresmax.com/posts/what-does-success-mean-to-you/</link>
+      <pubDate>Thu, 29 Oct 2015 13:22:57 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/what-does-success-mean-to-you/</guid>
+      <description>&lt;p&gt;Have you ever heard about the &lt;a href=&#34;http://fourhourworkweek.com/2008/10/03/harnessing-entrepreneurial-manic-depression-making-the-rollercoaster-work-for-you/&#34;&gt;entrepreneurial rollercoaster&lt;/a&gt;?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The illusion of being busy</title>
+      <link>https://www.andresmax.com/posts/the-illusion-of-being-busy/</link>
+      <pubDate>Tue, 27 Oct 2015 21:02:20 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/the-illusion-of-being-busy/</guid>
+      <description>&lt;p&gt;Have you ever had a very busy day or week at which’s end you feel like you got absolutely nothing done? Of course you have.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lazy Designers Are The Best Designers</title>
+      <link>https://www.andresmax.com/posts/good-design-is-as-little-design-as-possible/</link>
+      <pubDate>Fri, 16 Oct 2015 14:12:43 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/good-design-is-as-little-design-as-possible/</guid>
+      <description>&lt;p&gt;Recently I published a piece on the Ideaware blog called &lt;a href=&#34;http://ideaware.co/good-design-little-design-possible/&#34;&gt;Good design is as little design as possible&lt;/a&gt;, it has turned into one of our all-star posts.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>We All Need Time Off, And That&#39;s Ok</title>
+      <link>https://www.andresmax.com/posts/need-time-thats-ok/</link>
+      <pubDate>Wed, 29 Oct 2014 14:00:59 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/need-time-thats-ok/</guid>
+      <description>&lt;p&gt;Just last week I came across an article written by Paul Boag from Headscape aptly titled &lt;a href=&#34;http://www.smashingmagazine.com/2014/10/27/you-are-not-a-machine-you-are-not-alone/&#34;&gt;You Are Not A Machine. You Are Not Alone.&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Why Are You Doing It?</title>
+      <link>https://www.andresmax.com/posts/why-are-you-doing-it/</link>
+      <pubDate>Sat, 25 Oct 2014 13:22:45 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/why-are-you-doing-it/</guid>
+      <description>&lt;p&gt;About a year ago, I was in Miami with the team working with a client from LA. Just before we left he walked up to me and said: &amp;ldquo;Max, you&amp;rsquo;re the James Bond of web design.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>5 Things I&#39;ve Learned From Starting A Company</title>
+      <link>https://www.andresmax.com/posts/5-things-ive-learned-starting-company/</link>
+      <pubDate>Fri, 24 Oct 2014 14:00:28 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/5-things-ive-learned-starting-company/</guid>
+      <description>&lt;p&gt;As far as I know there is no holy grail of things you should do to make a company successful.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Our Work-Life Balance, Will We Get It Right?</title>
+      <link>https://www.andresmax.com/posts/work-life-balance-will-get-right/</link>
+      <pubDate>Thu, 23 Oct 2014 14:00:38 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/work-life-balance-will-get-right/</guid>
+      <description>&lt;p&gt;The topic of the future of work-life balance has been catching my interest lately.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>I Know I Needed To Change Something</title>
+      <link>https://www.andresmax.com/posts/know-needed-change-something/</link>
+      <pubDate>Wed, 22 Oct 2014 14:00:47 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/know-needed-change-something/</guid>
+      <description>&lt;p&gt;My all time favorite quote was said by Steve Jobs back in 2005 during his Stanford speech:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Negotiate Time, Not Quality</title>
+      <link>https://www.andresmax.com/posts/negotiate-time-not-quality/</link>
+      <pubDate>Tue, 21 Oct 2014 14:00:42 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/negotiate-time-not-quality/</guid>
+      <description>&lt;p&gt;I was very naive at negotiating when I first started &lt;a href=&#34;http://ideaware.co&#34;&gt;Ideaware&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Four Years Ago, I Quit My Job</title>
+      <link>https://www.andresmax.com/posts/4-years-ago-quit-job/</link>
+      <pubDate>Mon, 20 Oct 2014 14:00:42 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/4-years-ago-quit-job/</guid>
+      <description>&lt;p&gt;Last September marked four years since I quit my &amp;lsquo;full-time&amp;rsquo; job and started my current journey.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>You&#39;re The Average Of The Five People You Spend Most Time With</title>
+      <link>https://www.andresmax.com/posts/youre-average-five-people-spend-time/</link>
+      <pubDate>Sun, 19 Oct 2014 23:28:21 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/youre-average-five-people-spend-time/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s a favorite quote of mine from motivational speaker Jim Rohn:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>You Build The Reality Around You</title>
+      <link>https://www.andresmax.com/posts/you-build-the-reality-around-you/</link>
+      <pubDate>Sat, 18 Oct 2014 14:31:33 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/you-build-the-reality-around-you/</guid>
+      <description>&lt;p&gt;Just today I read a blog post from my friend Dan Martell called &amp;ldquo;&lt;a href=&#34;http://www.danmartell.com/no-excuses/&#34;&gt;No Excuses&lt;/a&gt;&amp;rdquo;, he says:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Resume As We Know It Should Die</title>
+      <link>https://www.andresmax.com/posts/the-resume-should-die/</link>
+      <pubDate>Tue, 05 Aug 2014 16:06:12 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/the-resume-should-die/</guid>
+      <description>&lt;p&gt;I recently removed the file upload field from the &amp;lsquo;Apply for a job&amp;rsquo; form on the new soon-to-be-live Ideaware website.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Top 10 Questions To Ask Your Next Design Client</title>
+      <link>https://www.andresmax.com/posts/10-things-ask-every-new-client/</link>
+      <pubDate>Wed, 30 Jul 2014 10:15:39 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/10-things-ask-every-new-client/</guid>
+      <description>&lt;p&gt;New projects and clients are always usually exciting. The possibilities are endless, the hair-pulling feedback limitless!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Being an Entrepreneur Outside the Valley</title>
+      <link>https://www.andresmax.com/posts/being-an-entrepreneur-outside-the-valley/</link>
+      <pubDate>Wed, 20 Nov 2013 12:48:00 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/being-an-entrepreneur-outside-the-valley/</guid>
+      <description>&lt;p&gt;Silicon Valley is a great place to be to start a tech company. You will have access to Angel Investors and VCs, will be able to meet up with similar minded folks and even find a mentor to help you on your way.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tips For Landing That Design/Development Job</title>
+      <link>https://www.andresmax.com/posts/tips-for-landing-that-design-development-job/</link>
+      <pubDate>Wed, 24 Apr 2013 22:42:33 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/tips-for-landing-that-design-development-job/</guid>
+      <description>&lt;p&gt;I run a digital creative agency called &lt;a href=&#34;http://ideaware.co&#34;&gt;Ideaware&lt;/a&gt;, as part of my job I receive and filter resumes looking for talent to join our team.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>So I quit my job, what&#39;s next?</title>
+      <link>https://www.andresmax.com/posts/so-i-quit-my-job-whats-next/</link>
+      <pubDate>Fri, 10 Sep 2010 16:46:00 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/so-i-quit-my-job-whats-next/</guid>
+      <description>&lt;p&gt;Last week I quit my job as CTO at koombea, I had worked there for three years and made some very good friends and built some very awesome products.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+/blog/*  /posts/:splat
+/feed/  /index.xml
+/blog/a-tale-of-smoothies-and-business/  /posts/a-tale-of-smoothies-and-business/

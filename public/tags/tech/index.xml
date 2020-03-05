@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on Andrés Max</title>
+    <link>https://www.andresmax.com/tags/tech/</link>
+    <description>Recent content in Tech on Andrés Max</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Jan 2020 08:02:56 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.andresmax.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The 30 Day Linux Challenge</title>
+      <link>https://www.andresmax.com/posts/the-30-linux-challenge/</link>
+      <pubDate>Wed, 29 Jan 2020 08:02:56 -0500</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/the-30-linux-challenge/</guid>
+      <description>&lt;p&gt;I challenged myself to drop Mac and Windows and use Linux only for 30 days. Here&amp;rsquo;s what I learned.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bye Bye Wordpress</title>
+      <link>https://www.andresmax.com/posts/bye-bye-wordpress/</link>
+      <pubDate>Sun, 12 Jan 2020 10:27:59 -0500</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/bye-bye-wordpress/</guid>
+      <description>&lt;p&gt;So long Wordpress, and thanks for all the fish.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Why you should ignore your competitors</title>
+      <link>https://www.andresmax.com/posts/ignore-your-competitors/</link>
+      <pubDate>Wed, 03 Jul 2019 06:25:21 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/ignore-your-competitors/</guid>
+      <description>&lt;p&gt;I’ve never understood founders who build companies or products just as a reaction to what their competitors are doing.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Resume As We Know It Should Die</title>
+      <link>https://www.andresmax.com/posts/the-resume-should-die/</link>
+      <pubDate>Tue, 05 Aug 2014 16:06:12 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/the-resume-should-die/</guid>
+      <description>&lt;p&gt;I recently removed the file upload field from the &amp;lsquo;Apply for a job&amp;rsquo; form on the new soon-to-be-live Ideaware website.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Top 10 Questions To Ask Your Next Design Client</title>
+      <link>https://www.andresmax.com/posts/10-things-ask-every-new-client/</link>
+      <pubDate>Wed, 30 Jul 2014 10:15:39 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/10-things-ask-every-new-client/</guid>
+      <description>&lt;p&gt;New projects and clients are always usually exciting. The possibilities are endless, the hair-pulling feedback limitless!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Being an Entrepreneur Outside the Valley</title>
+      <link>https://www.andresmax.com/posts/being-an-entrepreneur-outside-the-valley/</link>
+      <pubDate>Wed, 20 Nov 2013 12:48:00 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/being-an-entrepreneur-outside-the-valley/</guid>
+      <description>&lt;p&gt;Silicon Valley is a great place to be to start a tech company. You will have access to Angel Investors and VCs, will be able to meet up with similar minded folks and even find a mentor to help you on your way.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tips For Landing That Design/Development Job</title>
+      <link>https://www.andresmax.com/posts/tips-for-landing-that-design-development-job/</link>
+      <pubDate>Wed, 24 Apr 2013 22:42:33 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/tips-for-landing-that-design-development-job/</guid>
+      <description>&lt;p&gt;I run a digital creative agency called &lt;a href=&#34;http://ideaware.co&#34;&gt;Ideaware&lt;/a&gt;, as part of my job I receive and filter resumes looking for talent to join our team.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

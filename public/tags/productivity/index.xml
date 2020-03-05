@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Productivity on Andrés Max</title>
+    <link>https://www.andresmax.com/tags/productivity/</link>
+    <description>Recent content in Productivity on Andrés Max</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Jan 2020 08:02:56 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.andresmax.com/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The 30 Day Linux Challenge</title>
+      <link>https://www.andresmax.com/posts/the-30-linux-challenge/</link>
+      <pubDate>Wed, 29 Jan 2020 08:02:56 -0500</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/the-30-linux-challenge/</guid>
+      <description>&lt;p&gt;I challenged myself to drop Mac and Windows and use Linux only for 30 days. Here&amp;rsquo;s what I learned.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Resolutions suck, do this instead</title>
+      <link>https://www.andresmax.com/posts/resolutions-suck-do-this-instead/</link>
+      <pubDate>Thu, 03 Jan 2019 17:20:54 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/resolutions-suck-do-this-instead/</guid>
+      <description>&lt;p&gt;You might be thinking: oh wow another new year’s resolution post by someone I don’t know. Guess what? &lt;strong&gt;You’re right!&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The illusion of being busy</title>
+      <link>https://www.andresmax.com/posts/the-illusion-of-being-busy/</link>
+      <pubDate>Tue, 27 Oct 2015 21:02:20 +0000</pubDate>
+      
+      <guid>https://www.andresmax.com/posts/the-illusion-of-being-busy/</guid>
+      <description>&lt;p&gt;Have you ever had a very busy day or week at which’s end you feel like you got absolutely nothing done? Of course you have.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
