@@ -9,7 +9,7 @@ layout = "page_title"
 
 I’ve always loved great visual design and building software. That led me to become a Software Engineer and UX Designer. 10 years ago I quit my job and started [Ideaware](https://ideaware.co).
 
-Since then I’ve founded multiple SaaS products. Currently I help software founders scale nearshore software teams.
+Since then I’ve founded multiple SaaS products. Currently, I help software founders scale nearshore software teams.
 
 I believe you can achieve success by also living a calm and happy life.  
 
@@ -33,4 +33,4 @@ I believe you can achieve success by also living a calm and happy life.
 -   Learn all day
 -   Help aspiring entrepreneurs by sharing what I’ve learned
 -   Design & build apps
--   PC Gamer
+-   Linux junkie
