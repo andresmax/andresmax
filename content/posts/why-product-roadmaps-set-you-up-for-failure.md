@@ -19,12 +19,12 @@ Build it, ship it and keep following your roadmap.
 
 Nothing wrong with having a roadmap to release your MVP, but after you ship that first version roadmaps turn into dangerous beasts.
 
-See, roadmaps limit your scope and vision to what you, your stakeholders and your team *thinks* that needs to be built. This is a dangerous situation to be in because you are basically building in the dark without external input from important stakeholders, like _uhm_, you know - your customers!
+See, roadmaps limit your scope and vision to what you, your stakeholders and your team *think* that needs to be built. This is a dangerous situation to be in because you are basically building in the dark without external input from important stakeholders, like _uhm_, you know - your customers!
 
 
 ## Problem
 
-The problem with the traditional roadmap comes down that it is just a timeline. One big list of feature after feature spread out over a calendar.
+The problem with the traditional roadmap comes down to that it is just a timeline. One big list of feature after feature spread out over a calendar.
 
 If something new comes in you add it to the list, estimate it, done.
 
@@ -51,7 +51,7 @@ And the further away you stretch out your roadmap/timeline, the more you are mak
 - It's exciting to dive into new ideas, instead of projects that you’re already confident about.
 - It's easy to discount the additional effort that one project will require over another.
 
-If you are now careful you are now making up what needs to be worked on.
+If you are not careful you are now making up what needs to be worked on.
 
 ... and ignoring what your customers want.
 
@@ -121,7 +121,7 @@ Work on those first.
 
 Release, ask for feedabck, iterate.
 
-Feel free to add to your backlog, but ALWAYS keep Ricing.
+Feel free to add to your backlog, but ALWAYS keep RICing.
 
 Remember, your roadmap is not meant to be a perfect plan of everything you're doing. Your roadmap is a prototype for your product strategy.
 
