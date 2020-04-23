@@ -2,7 +2,7 @@
 baseurl = "your_site_url_address"
 languageCode = "en"
 title = "site title"
-theme = "hugo-theme-cactus-plus"
+theme = "hugo-theme-andresmax"
 googleAnalytics = "your_google_analytics_id"
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
 hasCJKLanguage = false

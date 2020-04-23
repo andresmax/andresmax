@@ -1,7 +1,7 @@
 baseURL = "https://www.andresmax.com/"
 languageCode = "en-us"
 title = "Andrés Max"
-theme = "hugo-theme-cactus-plus"
+theme = "hugo-theme-andresmax"
 
 googleAnalytics = "UA-2687767-4"
 hasCJKLanguage = false
@@ -9,7 +9,7 @@ hasCJKLanguage = false
 [params]
 	name = "Andrés Max"
 	description = "Describe your website"
-	bio = "I design, make and break things."
+	bio = "I help software founders build their startups."
 	# Enter optionally your twitter account
 	twitter = "andresmax"
 

@@ -1,3 +1,3 @@
 Repo for andresmax.com
 
-Uses Hugo CMS
+Uses Hugo CMS with a custom theme

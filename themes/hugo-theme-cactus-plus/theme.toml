@@ -1,11 +1,11 @@
-name = "Andres Max Cactus Plus"
+name = "Andres Max"
 license = "MIT"
 licenselink = "https://github.com/nodejh/hugo-theme-cactus-plus/blob/master/LICENSE.md"
 description = "A remix of Cactus Plus Hugo theme"
 homepage = "https://github.com/nodejh/hugo-theme-cactus-plus"
 tags = ["blog", "beautiful", "disqus", "rss", "syntax highlighting", "tags"]
 features = ["blog", "beautiful", "disqus", "rss", "syntax highlighting", "tags"]
-min_version = 0.20
+min_version = 0.21
 
 [author]
   name = "andresmax"
