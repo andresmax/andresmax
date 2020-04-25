@@ -201,10 +201,20 @@ nav.main-nav a:hover {
   font-size: 18px;
 }
 
-nav.main-nav a.cta {
+div.main-cta{
+  padding: 24px 0;
+  float: right;
+  margin-right: 20px;s
+}
+
+div.main-cta a {
   background: #5badf0;
   color: #fff;
-  margin-left: 12px;
+  padding: 8px;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1.35;
+  border-radius: 3px;
 }
 
 @media (max-width: 700px) {
@@ -241,6 +251,11 @@ nav.main-nav a.cta {
   nav.main-nav.responsive {
     max-height: 600px;
   }
+
+  div.main-cta {
+    visibility: hidden;
+  }
+
 }
 
 @media (max-width: 324px) {
