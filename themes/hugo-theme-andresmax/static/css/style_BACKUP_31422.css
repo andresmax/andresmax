@@ -167,19 +167,21 @@ h1 {
   font-style: normal;
 }
 
+<<<<<<< HEAD
+
 section#fixed-nav{
   position: fixed;
   top: 0;
   width: 100%;
   background-image: linear-gradient(to top, rgba(255,255,255,0), rgba(255,255,255,1));
   z-index: 1000;
-}
-
+=======
 .profile p.site-description {
   font-size: 16px;
   font-weight: 500;
   max-width: 500px;
   margin: 0 auto;
+>>>>>>> 84f43c95492eba3376279f3487336b8b67d5f594
 }
 
 nav.main-nav {

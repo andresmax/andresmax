@@ -1,12 +1,13 @@
 <div class="profile">
   <section id="wrapper">
     <header id="header">
-      <a href='{{ with .Site.Params.avatarLink }}{{ . }}{{ else }}{{ .Site.BaseURL }}about{{ end }}'>
-        <img id="avatar" class="2x" src="{{ .Site.BaseURL }}images/avatar.png" />
-      </a>
-      <h1>👋 I’m Andrés Max.</h1>
+      <h2>👋 I’m Andrés Max.</h2>
       {{ with .Site.Params.bio }}
-      <h2>{{ . | markdownify }}</h2>{{ end }}
+      <h1>{{ . | markdownify }}</h1>{{ end }}
+
+      {{ with .Site.Params.description }}
+      <p class="site-description">{{ . | markdownify }}</p>{{ end }}
+
     </header>
   </section>
 </div>
