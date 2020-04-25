@@ -4,6 +4,7 @@ title = "About Me"
 subhead = "Designer, Developer & Founder."
 hidden = true
 menu = "main"
+layout = "page_title"
 +++
 
 I’ve always loved great visual design and building software. That led me to become a Software Engineer and UX Designer. 10 years ago I quit my job and started [Ideaware](https://ideaware.co).

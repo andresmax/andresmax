@@ -1,0 +1,9 @@
+<div class="profile">
+  <section id="wrapper">
+    <header id="header" class="subpage">
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.subhead }}
+      <h2>{{ . | markdownify }}</h2>{{ end }}
+    </header>
+  </section>
+</div>
