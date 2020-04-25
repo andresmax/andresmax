@@ -5,7 +5,6 @@ subhead = "I have a curse: I can't stop making things"
 hidden = true
 menu = "main"
 type = "page"
-layout = "page_title"
 +++
 
 ### Main focus

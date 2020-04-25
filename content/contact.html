@@ -4,7 +4,6 @@ title = "Let's talk"
 subhead = "Feel free to send me a note below if there is anything I can help with."
 hidden = true
 menu = "main"
-layout = "page_title"
 +++
 
 <form id="contactForm" name="contact" method="POST" data-netlify="true">
@@ -27,21 +26,21 @@ layout = "page_title"
 </form>
 
 <script>
-function validateForm() {
-  var x = document.forms["contactForm"]["name"].value;
-  if (x == "" || x == null) {
-    alert("Name must be filled out");
-    return false;
+  function validateForm() {
+    var x = document.forms["contactForm"]["name"].value;
+    if (x == "" || x == null) {
+      alert("Name must be filled out");
+      return false;
+    }
+    var x = document.forms["contactForm"]["email"].value;
+    if (x == "" || x == null) {
+      alert("Email must be filled out");
+      return false;
+    }
+    var x = document.forms["contactForm"]["message"].value;
+    if (x == "" || x == null) {
+      alert("What! No message?");
+      return false;
+    }
   }
-  var x = document.forms["contactForm"]["email"].value;
-  if (x == "" || x == null) {
-    alert("Email must be filled out");
-    return false;
-  }
-  var x = document.forms["contactForm"]["message"].value;
-  if (x == "" || x == null) {
-    alert("What! No message?");
-    return false;
-  }
-}
 </script>

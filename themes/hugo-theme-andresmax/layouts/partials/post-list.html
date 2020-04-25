@@ -4,11 +4,13 @@
   {{ if ne $url "about/" }}
   <li>
 
-    {{ if .Params.image }}
-    <img class="post-list-image-preview" src="{{ .Params.image }}" alt="{{ $.Title }}">
-    {{ end }}
-    <aside class="dates">{{ .Date.Format "Jan 2" }}</aside>
+
+
     <a href='{{ .Permalink }}'>
+      {{ if .Params.image }}
+      <img class="post-list-image-preview" src="{{ .Params.image }}" alt="{{ $.Title }}">
+      {{ end }}
+      <aside class="dates">{{ .Date.Format "Jan 2" }}</aside>
       {{ .Title }}
       {{ if .Site.Params.enableSummary }}
       {{ if .Site.Params.useDescriptionReplaceSummary }}
