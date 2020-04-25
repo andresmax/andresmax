@@ -37,7 +37,7 @@ hasCJKLanguage = false
 	# Navigation links
 	home = ""
 	about = ""
-	youtube = "📺 Youtube"
+	youtube = "Youtube"
 	now = ""
 	archive = ""
 	subscribe = "RSS"
