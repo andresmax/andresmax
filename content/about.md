@@ -1,7 +1,7 @@
 +++
 date = "2020-01-12T00:17:56-05:00"
 title = "About Me"
-subhead = "Designer, Developer & Founder."
+subhead = "Entrepreneur, Designer, Developer, Maker."
 hidden = true
 menu = "main"
 layout = "page_title"
