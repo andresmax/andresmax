@@ -136,7 +136,7 @@ h1 {
 }
 
 .profile #header {
-  margin-bottom: 60px;
+  margin-bottom: 40px;
   text-align: center;
   position: relative;
 }
@@ -167,11 +167,11 @@ h1 {
   font-style: normal;
 }
 
-section#fixed-nav{
+section#fixed-nav {
   position: fixed;
   top: 0;
   width: 100%;
-  background-image: linear-gradient(to top, rgba(255,255,255,0), rgba(255,255,255,1));
+  background-image: linear-gradient(to top, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1));
   z-index: 1000;
 }
 
@@ -180,6 +180,14 @@ section#fixed-nav{
   font-weight: 500;
   max-width: 500px;
   margin: 0 auto;
+}
+
+span.divider {
+  background-color: #8B48DE;
+  width: 36px;
+  height: 2px;
+  display: block;
+  margin: 40px auto 0 auto;
 }
 
 nav.main-nav {
@@ -443,7 +451,8 @@ em, i {
 #post-list h2 {
   font: normal 17px/1.5em "Montserrat", Helvetica, Arial, sans-serif;
   color: #aaa;
-  margin-top: 2px;
+  margin-top: 10px;
+  line-height: 26px;
 }
 
 .post h3 {
@@ -456,7 +465,7 @@ em, i {
 }
 
 h3, h4, h5 {
-  color: #333;
+  color: #3C3C3C;
 }
 
 h3 {
@@ -568,6 +577,13 @@ Post List
   list-style-type: none;
 }
 
+#post-list li span.separator {
+  width: 30px;
+  height: 2px;
+  background-color: #F2F2F2;
+  display: block;
+}
+
 #post-list li:last-child {
   margin-bottom: 0;
 }
@@ -576,10 +592,16 @@ Post List
   padding-top: 20px;
 }
 
+#post-list li img.post-list-image-preview {
+  margin-bottom: 20px;
+  border-radius: 0px;
+}
+
 #post-list a {
-  color: #333;
+  color: #3C3C3C;
   display: block;
-  font: 500 19px/1.7 "Montserrat", helvetica, Arial, sans-serif;
+  font: 500 22px/1.7 "Montserrat", helvetica, Arial, sans-serif;
+  line-height: 32px;
 }
 
 #post-list .dates {
@@ -748,7 +770,7 @@ h2.month {
 #archive-list a {
   display: block;
   font: bold 17px/1.7 "Montserrat", helvetica, Arial, sans-serif;
-  color: #333;
+  color: #3C3C3C;
 }
 
 #archive-list .dates {
