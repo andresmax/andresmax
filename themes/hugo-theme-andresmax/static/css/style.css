@@ -117,6 +117,9 @@ body {
   color: #666;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+  background-image: url('../images/ambg.png');
+  background-repeat: no-repeat;
+  background-position: top right;
 }
 
 h1 {
@@ -201,10 +204,11 @@ nav.main-nav a:hover {
   font-size: 18px;
 }
 
-div.main-cta{
+div.main-cta {
   padding: 24px 0;
   float: right;
-  margin-right: 20px;s
+  margin-right: 20px;
+  s
 }
 
 div.main-cta a {
@@ -255,7 +259,6 @@ div.main-cta a {
   div.main-cta {
     visibility: hidden;
   }
-
 }
 
 @media (max-width: 324px) {
