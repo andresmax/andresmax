@@ -41,6 +41,7 @@ hasCJKLanguage = false
 	now = ""
 	archive = ""
 	subscribe = "RSS"
+	contact = "Let's Talk"
 
 	olderPosts = ""
 	newerPosts = ""

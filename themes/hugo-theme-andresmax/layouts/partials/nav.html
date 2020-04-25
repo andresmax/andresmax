@@ -12,15 +12,13 @@
 
   <a href='https://youtube.com/andresmax' target="_blank">{{ with .Site.Params.youtube }}{{ . }}{{ else }}Youtube{{ end }}</a>
 
-  <a href='{{ .Site.BaseURL }}contact'>{{ with .Site.Params.contact }}{{ . }}{{ else }}Contact{{ end }}</a>
-
   {{ range $key, $val := .Site.Params.Links }}
   <a href="{{ $val }}">{{ $key }}</a>
   {{ end }}
 </nav>
 
 <div class="main-cta">
-  <a href="#" class="cta fright">Let's chat</a>
+  <a href="{{ .Site.BaseURL }}contact" class="cta fright">{{ with .Site.Params.contact }}{{ . }}{{ else }}Contact{{ end }}</a>
 </div>
 
 
