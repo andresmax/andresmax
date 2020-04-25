@@ -8,7 +8,7 @@ hasCJKLanguage = false
 
 [params]
 	name = "Andrés Max"
-	description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus convallis nisi, vel sagittis nibh sollicitudin quis. Sed enim odio."
+	description = "I'm a serial entrepreneur, husband and father from Colombia. Backgrounds in Software development, UX/UI design and team building."
 	bio = "I help software founders build their startups."
 	# Enter optionally your twitter account
 	twitter = "andresmax"

@@ -23,7 +23,7 @@ layout = "page_title"
 - Youtube videos
 - IoT tinkering
 - Online/digital security
-- Switching to Linux/OSS
+- Linux/OSS
 
 * * *
 
