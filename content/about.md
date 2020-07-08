@@ -27,7 +27,7 @@ I believe you can achieve success by also living a calm and happy life.
 
 ## What I do
 
--   Husband & father of two
+-   Husband & father of ~~two~~ three
 -   Connect companies with amazing Colombian talent
 -   Newbie Youtuber
 -   Learn all day
