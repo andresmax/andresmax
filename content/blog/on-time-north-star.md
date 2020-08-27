@@ -91,8 +91,6 @@ Who cares about on time if your product is not bringing in customers and keeping
 
 Focus on the right thing. Find your NSM first. 
 
-NSM workshop
-
 The best way to figure out your North Star Metric is to get your team together and figure out what is the key most important value your most loyal customers get from your product.
 
 See Slack's example: 
