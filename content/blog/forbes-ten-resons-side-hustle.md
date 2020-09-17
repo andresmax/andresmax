@@ -6,11 +6,6 @@ draft: false
 type: post
 tags:
   - Entrepreneurship
-  - Tech
-  - Design
-  - Personal
-  - Productivity
-  - Software
   - Thoughts
 ---
 
