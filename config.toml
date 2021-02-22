@@ -1,7 +1,7 @@
 baseURL = "https://www.andresmax.com/"
 languageCode = "en-us"
 title = "Andrés Max"
-theme = "hugo-theme-andresmax"
+theme = "tailwind"
 
 googleAnalytics = "UA-2687767-4"
 hasCJKLanguage = false
