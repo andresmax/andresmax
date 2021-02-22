@@ -1,20 +1,12 @@
 +++
 date = "2020-01-12T00:17:56-05:00"
-title: "Working on now"
-subhead: "I have a curse: I can't stop making things"
-hidden: true
-type: "page"
-layout: "default"
-menu:
-  main:
-  - identifier: blog
-    name: This is the blog section
-    title: blog section
-    url: /blog/
-    weight: -110
+title = "Working on now"
+subhead = "I have a curse: I can't stop making things"
+hidden = true
+menu = "main"
+type = "page"
+layout = "page_title"
 +++
-
-
 
 ### Main focus
 
@@ -39,6 +31,6 @@ I publish on [YouTube][1] and [andresmax.com][2], you can also listen to my podc
 
 [1]: https://www.youtube.com/andresmax
 
-[2]: https://www.andresmax.com
+[2]: https://www.christitus.com/
 
 [3]: https://anchor.fm/ideatalks
