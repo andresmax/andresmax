@@ -32464,6 +32464,12 @@ video {
           animation: bounce 1s infinite;
 }
 
+.prose-red a:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgba(254, 242, 242, var(--tw-bg-opacity));
+  border-radius: 0.125rem;
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
