@@ -10,3 +10,7 @@
 .prose-red a:hover {
    @apply bg-red-50 rounded-sm;
 }
+
+.prose-black a:hover {
+   @apply bg-gray-100 rounded-sm;
+}
