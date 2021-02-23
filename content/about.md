@@ -7,7 +7,8 @@ menu = "main"
 layout = "baseof"
 +++
 
-## Founder, strategist, mentor, ux designer, developer.
+## 👋 Hi, I’m Andrés Max
+# Founder, strategist, mentor, ux designer, developer.
 
 I’ve always loved great visual design and building software. That led me to become a Software Engineer and UX Designer. 10 years ago I quit my job and started [Ideaware](https://ideaware.co).
 
@@ -17,7 +18,7 @@ I believe you can achieve success by also living a calm and happy life.
 
 * * *
 
-![Max](/images/maxheader.jpg)
+![Moi](/images/maxheader.jpg)
 
 ## My Story
 
