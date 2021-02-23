@@ -1,13 +1,13 @@
 +++
 date = "2020-01-12T00:17:56-05:00"
-title = "About"
+title = "About Me"
 subhead = "Entrepreneur, Designer, Developer, Maker."
 hidden = true
 menu = "main"
 layout = "baseof"
 +++
 
-# Founder, strategist, ux designer, developer. Father of 3.
+## Founder, strategist, mentor, ux designer, developer.
 
 I’ve always loved great visual design and building software. That led me to become a Software Engineer and UX Designer. 10 years ago I quit my job and started [Ideaware](https://ideaware.co).
 
@@ -16,6 +16,8 @@ Since then I’ve founded multiple SaaS products. Currently, I help software fou
 I believe you can achieve success by also living a calm and happy life.  
 
 * * *
+
+![Max](/images/maxheader.jpg)
 
 ## My Story
 
