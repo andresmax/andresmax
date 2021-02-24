@@ -1,16 +1,17 @@
 {{ define "main" }}
 
-<article class="w-max text-gray-700 sm:mx-12 mb-16 prose lg:prose-lg prose-red">
-    {{ .Content }}
-</article>
+<article class="w-3/5">
 
-<article class="w-max text-gray-700 sm:mx-12 mb-16 lg:prose-sm prose-black ">
+{{ .Content }}
+
+<hr class="my-8" />
+
 {{ range where .Paginator.Pages "Params.hidden" "ne" "true" }}
-    <ul class="text-gray-700 sm:mx-12 mb-16 ">
-        <h1 class="text-sm"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
-
+    <ul>
+        <li class="mb-12">
+          <h1 class="text-3xl font-medium no-underline"><a class="hover:text-red-500" href="{{ .Permalink }}">{{ .Title }}</a></h1>
+        </li>
     </ul>
 {{ end }}
 </article>
 {{ end }}
-

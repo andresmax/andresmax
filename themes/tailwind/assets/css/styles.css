@@ -13,4 +13,5 @@
 
 .prose-black a:hover {
    @apply bg-gray-100 rounded-sm;
+   text-decoration: none;
 }
