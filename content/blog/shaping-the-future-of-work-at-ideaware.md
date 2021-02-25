@@ -1,6 +1,6 @@
 ---
 title: "Shaping the Future of Work at Ideaware"
-date: 2020-11-11T06:53:24-05:00
+date: 2020-11-11T14:15:59-05:00
 draft: false
 image: /images/shaping-the-future-of-work-at-ideaware.jpg
 type: post
