@@ -1,8 +1,28 @@
 {{ define "main" }}
 <article class="prose lg:prose-lg prose-red">
-    <div class="text-md text-gray-400 mb-6">{{ .Date.Format "2 Jan 06" }}</div>
+
+  <span class="tags text-sm">
+  {{ with .Params.tags }}
+  {{ if ge (len .) 1 }}
+      {{ range . }}
+          <a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">{{ . }}</a>
+      {{ end }}
+  {{ end }}
+  {{ end}}
+  </span>
+
+    <div class="text-md text-gray-400 mb-6">{{ .Date.Format "2 Jan 06" }} · {{ .ReadingTime }} minute read</div>
     <h1>{{ .Title }}</h1>
 
+    {{ if .Params.Image  }}
+      <img id="post-image" src="{{ .Site.BaseURL }}{{ .Params.Image }}"/>
+    {{ end }}
+
     {{ .Content }}
+
+    <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
 </article>
 {{ end }}
