@@ -1,15 +1,15 @@
-<footer class="w-full text-center p-4 pin-b text-xs text-gray-400">
+<footer class="w-full text-center p-4 pin-b text-xs text-gray-400 mt-10">
 
 
   <p>
     {{ range $key, $val := .Site.Social }}
-    <a class="px-1 capitalize text-xs text-gray-500" href="{{ $val }}">
+    <a class="px-1 capitalize text-base text-gray-500 font-medium hover:text-red-500" href="{{ $val }}">
         {{ $key }}
     </a>
     {{ end }}
     </p>
 
-    <p class="my-4">© Copyright {{ now.Format "2006"}} {{ .Site.Params.Author }} With ❤️ from Barranquilla</p>
+    <p class="my-3">© Copyright {{ now.Format "2006"}} {{ .Site.Params.Author }} With ❤️ from Barranquilla</p>
     <p class="mb-4">Made with <a href="https://gohugo.io" class="underline hover:text-red-400">Hugo</a> and <a href="https://tailwindcss.com" class="underline hover:text-red-400">TailwindCSS</a></p>
 
 </footer>
