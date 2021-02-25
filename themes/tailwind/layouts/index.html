@@ -15,8 +15,12 @@
           <aside class="my-4 text-gray-400">{{ .Date.Format "2 Jan 06" }}</aside>
           <h3 class="my-4 text-gray-600">{{ .Summary | plainify | htmlUnescape }}</h3>
         </li>
-        <hr class="my-8 w-16" />
+        <hr class="my-8 w-16 bg-red-500" />
     </ul>
 {{ end }}
+
+
+{{ partial "pagination.html" . }}
+
 </article>
 {{ end }}

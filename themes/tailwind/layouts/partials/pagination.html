@@ -1,0 +1,18 @@
+<nav id="post-nav">
+    {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+        {{ if .Paginator.HasPrev }}
+        <span class="hover:text-red-500 prev mr-6 font-medium">
+            <a href="{{.Paginator.Prev.URL}}">
+                <span class="arrow">←</span> {{ with .Site.Params.newerPosts }}{{ . }}{{ else }}Newer Posts{{ end }}
+            </a>
+        </span>
+        {{ end }}
+        {{ if .Paginator.HasNext }}
+        <span class="hover:text-red-500 next font-medium">
+            <a href="{{.Paginator.Next.URL}}">
+                {{ with .Site.Params.olderPosts }}{{ . }}{{ else }}Older Posts{{ end }} <span class="arrow">→</span>
+            </a>
+        </span>
+        {{ end }}
+    {{ end }}
+</nav>

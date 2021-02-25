@@ -1,4 +1,4 @@
-<header class="fixed w-full self-center bg-white px-8 pt-8 pb-4">
+<header class="fixed w-full self-center bg-transparent p-12">
     {{/*  CSS functionality for menu toggle  */}}
     <style type="text/css">
         input#nav-toggle:checked~label#show-button {
@@ -14,7 +14,7 @@
         }
     </style>
 
-    <nav class="flex items-center justify-between flex-wrap">
+    <nav class="flex items-center justify-between flex-wrap bg-transparent">
        <a href='{{ .Site.Home.Permalink  }}'><img id="logo" class="w-9" src="{{ .Site.Home.Permalink }}images/Logo-AM-Black.png" /></a>
 
         <input id="nav-toggle" type=checkbox class="hidden">
