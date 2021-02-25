@@ -15,7 +15,7 @@
     </style>
 
     <nav class="flex items-center justify-between flex-wrap">
-       <a href='{{ .Site.Home.Permalink  }}'><img id="logo" class="w-8" src="{{ .Site.Home.Permalink }}images/Logo-AM-Black.png" /></a>
+       <a href='{{ .Site.Home.Permalink  }}'><img id="logo" class="w-9" src="{{ .Site.Home.Permalink }}images/Logo-AM-Black.png" /></a>
 
         <input id="nav-toggle" type=checkbox class="hidden">
         <label id="show-button" for="nav-toggle"
@@ -33,7 +33,7 @@
             </svg>
         </label>
 
-        <ul id="nav-menu" class="font-medium sm:flex w-full sm:w-auto hidden sm:block mt-2 sm:mt-0 sm:space-x-3">
+        <ul id="nav-menu" class="font-normal sm:flex w-full sm:w-auto hidden sm:block mt-2 sm:mt-0 sm:space-x-3">
             {{ with .Site.GetPage "/about" }}
             <li>
                 <a href="{{ .Permalink }}" class="text-md hover:text-red-600">{{ .Title }}</a>

@@ -6,4 +6,4 @@ menu = "main"
 layout = "index"
 +++
 
-### Latest posts
+## Latest posts
