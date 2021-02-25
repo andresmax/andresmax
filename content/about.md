@@ -4,7 +4,7 @@ title = "About"
 subhead = "Entrepreneur, Designer, Developer, Maker."
 hidden = true
 menu = "main"
-layout = "baseof"
+layout = "page"
 +++
 
 ## 👋 Hi, I’m Andrés Max
