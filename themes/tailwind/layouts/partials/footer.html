@@ -1,3 +1,15 @@
 <footer class="w-full text-center p-4 pin-b text-xs text-gray-400">
-    <p>made with <a href="https://gohugo.io" class="underline hover:text-red-400">Hugo</a> and <a href="https://tailwindcss.com" class="underline hover:text-red-400">TailwindCSS</a></p>
+
+
+  <p>
+    {{ range $key, $val := .Site.Social }}
+    <a class="capitalize text-sm text-gray-500" href="{{ $val }}">
+        {{ $key }} 
+    </a>
+    {{ end }}
+    </p>
+
+    <p class="my-2">© Copyright {{ now.Format "2006"}} {{ .Site.Params.Author }} With ❤️ from Barranquilla</p>
+    <p class="mb-4">Made with <a href="https://gohugo.io" class="underline hover:text-red-400">Hugo</a> and <a href="https://tailwindcss.com" class="underline hover:text-red-400">TailwindCSS</a></p>
+
 </footer>

@@ -1,4 +1,4 @@
-<header class="fixed w-full self-center bg-white px-8 pt-8 pb-4">
+<header class="w-full self-center px-8 pt-8">
     {{/*  CSS functionality for menu toggle  */}}
     <style type="text/css">
         input#nav-toggle:checked~label#show-button {
@@ -34,17 +34,16 @@
         </label>
 
         <ul id="nav-menu" class="sm:flex w-full sm:w-auto hidden sm:block mt-2 sm:mt-0 sm:space-x-3">
-
-          <li>
-              <a href="{{ .Site.Home.Permalink }}" class="font-medium text-md hover:text-red-600">Home</a>
-          </li>
-
             {{ with .Site.GetPage "/about" }}
             <li>
                 <a href="{{ .Permalink }}" class="font-medium text-md hover:text-red-600">{{ .Title }}</a>
             </li>
             {{ end }}
-
+            {{ range .Site.Sections }}
+            <li>
+                <a href="{{ .Permalink }}" class="font-medium text-md hover:text-red-600">{{ .Title }}</a>
+            </li>
+            {{ end }}
         </ul>
     </nav>
 </header>

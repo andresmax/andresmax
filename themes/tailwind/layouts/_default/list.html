@@ -1,5 +1,8 @@
 {{ define "main" }}
 <article class="text-gray-700 sm:mx-12 mb-16  ">
+
+<span>Latest</span>
+
 {{ range where .Paginator.Pages "Params.hidden" "ne" "true" }}
     <ul class="text-gray-700 sm:mx-12 mb-16 ">
         <h1 class="text-x2"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>

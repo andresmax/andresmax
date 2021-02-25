@@ -1,6 +1,8 @@
 {{ define "main" }}
 
-<article class="xl:w-3/6 lg:w-3/6 md:w-4/6 sm:w-5/6 w-5/6">
+<article class="xl:w-3/6 lg:w-3/6 md:w-4/6 sm:w-5/6 w-5/6 max-w-screen-sm">
+
+<span class="px-2 py-1 bg-yellow-400 text-black">Latest</span>
 
 {{ .Content }}
 
@@ -10,9 +12,8 @@
     <ul>
         <li>
           <h1 class="text-3xl font-medium no-underline"><a class="hover:text-red-500" href="{{ .Permalink }}">{{ .Title }}</a></h1>
-          <aside class="my-2 text-gray-500">{{ .Date.Format "2 Jan 06" }}</aside>
+          <aside class="my-4 text-gray-400">{{ .Date.Format "2 Jan 06" }}</aside>
           <h3 class="my-4 text-gray-600">{{ .Summary | plainify | htmlUnescape }}</h3>
-          <a class="hover:text-red-500" href="{{ .Permalink }}">Read more &rarr;</a>
         </li>
         <hr class="my-8 w-24" />
     </ul>
