@@ -21,8 +21,3 @@ I'm very grateful and fortunate to work in an industry that has allowed us to gr
 For the past few month's I've re-thinking to use our office space at Ideaware. Remote is here to stay but I also want to have a HQ available to any team member in case they need to get out of the house or a quiet space to work in.
 
 However we will not be expanding to bigger/new office spaces. Instead we are turning our current space into some sort of private co working space, where no one has a fixed desk but instead we will let our team members book desks, meetings rooms or any other space they need.
-
-I publish on [YouTube][1] and [andresmax.com][2], you can also get my latest posts every two weeks in tour inbox by subscribing below 👇
-
- [1]: https://www.youtube.com/andresmax
- [2]: https://www.andresmax.com/

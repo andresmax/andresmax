@@ -70,12 +70,3 @@ I will still be in the Apple ecosystem - I have my iPhone and a Macmini at Ideaw
 Windows is no longer installed in my main desktop PC, and I'm happy about that.
 
 For the foreseable future, I will keep running Linux at home and on my laptop. I'm more productive, and it has made computing fun again.
-
---
-
-
-I publish on [YouTube][1] and [andresmax.com][2], you can also listen to my podcast on entrepreneurship and life at [anchor.fm/andresmax][3]
-
- [1]: https://www.youtube.com/andresmax
- [2]: https://www.andresmax.com/
- [3]: https://anchor.fm/andresmax

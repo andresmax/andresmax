@@ -130,11 +130,3 @@ At the end of the day, the value isn't in the 'roadmap' itself. It's in the proc
 Thanks for reading and watching!
 
 **PS: If you liked this article, please share to let me know I should make more like this!**
-
---
-
-I publish on [YouTube][1] and [andresmax.com][2], you can also get my latest posts every two weeks in tour inbox by subscribing below 👇
-
- [1]: https://www.youtube.com/andresmax
- [2]: https://www.andresmax.com/
- [3]: https://anchor.fm/andresmax

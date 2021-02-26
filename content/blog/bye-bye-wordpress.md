@@ -40,11 +40,3 @@ And some easy to follow reading material: [Switching From WordPress to Hugo](htt
 Now all I do is write in my favorite editor (Atom FTW), tweak and push to Github. Done!
 
 You can find the public code for this site and template in my [Github repo](https://github.com/andresmax/andresmax) if you want to use it.
-
-I publish on [YouTube][1] and [andresmax.com][2], you can also listen to my podcast on entrepreneurship and life at [anchor.fm/andresmax][3]
-
-[1]: https://www.youtube.com/andresmax
-
-[2]: https://www.andresmax.com
-
-[3]: https://anchor.fm/andresmax

@@ -59,11 +59,3 @@ Keep your main business/company/hustle going, make sure it is stable, brings inc
 
 
 /end rant
-
-
-
-
-I publish on [YouTube][1] and [andresmax.com][2], you can also get my latest posts every two weeks in tour inbox by subscribing below 👇
-
- [1]: https://www.youtube.com/andresmax
- [2]: https://www.andresmax.com/

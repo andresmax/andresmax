@@ -34,11 +34,3 @@ By doing so, we turn bad situations into opportunities. Opportunities to grow, t
 Next time a big change happens in your life, embrace it and find the opportunities that are being laid in front of you.
 
 More often than not, there are lessons involved that lead to a better life.
-
---
-
-I publish on [YouTube][1] and [andresmax.com][2], you can also listen to my podcast on entrepreneurship and life at [anchor.fm/andresmax][3]
-
- [1]: https://www.youtube.com/andresmax
- [2]: https://www.andresmax.com/
- [3]: https://anchor.fm/andresmax

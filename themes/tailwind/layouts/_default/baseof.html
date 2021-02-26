@@ -5,7 +5,10 @@
         {{- partial "header.html" . -}}
         <main class="flex justify-center pt-28">
         {{- block "main" . }}{{- end }}
+
         </main>
         {{- partial "footer.html" . -}}
+        {{ partial "typeform.html" . }}
+        {{- partial "ga.html" . -}}
     </body>
 </html>

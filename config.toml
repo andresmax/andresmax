@@ -31,26 +31,6 @@ hasCJKLanguage = false
 
 	enableTwitterCard = true
 
-	# The variables below are optionally too and can be used to
-	# translate or customize each string of the theme.
-
-	# Navigation links
-	home = ""
-	about = ""
-	youtube = "Youtube"
-	now = ""
-	archive = ""
-	subscribe = "RSS"
-	contact = "Get in touch"
-
-	olderPosts = ""
-	newerPosts = ""
-	copyright = ""
-
-	# show latest posts in single page
-	showLatestPosts = false
-	readMore = ""
-
 	# Share
 	enableShare = true
 	tweet = ""
@@ -60,15 +40,11 @@ hasCJKLanguage = false
 	title404 = "Oh no!"
 	subtitle404 = "The interwebs lost this."
 
-	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
-	iconFont = "font-awesome"
-  # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
-  socialIconStyle = ""
 
 # Add additional social link entries underneath
 [social]
     twitter  = "https://www.twitter.com/andresmax"
-    github   = "https://www.github.com/andresmax"
-    dribbble  = "https://www.dribbble.com/andresmax"
+    #github   = "https://www.github.com/andresmax"
+    #dribbble  = "https://www.dribbble.com/andresmax"
 		instagram  = "https://instagram.com/andresmax"
 		youtube  = "https://youtube.com/andresmax"

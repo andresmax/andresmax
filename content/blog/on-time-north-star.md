@@ -15,7 +15,7 @@ Having "on-time" as your team's (or project) success metric is a dangerous endea
 
 First of all, please don't get me wrong. Projects and sprints are meant to be delivered on time. But you should care more about other factors that allow you to measure true success.
 
-For 15 or so years I've seen two types of projects being executed: 
+For 15 or so years I've seen two types of projects being executed:
 
 1. Those teams who only care about delivering sprints on time and keep chugging along.
 
@@ -39,9 +39,9 @@ Essentially you are ignoring what really matters:
 
 You see, when on-time is your metric of choice, you are building for yourself, team and stakeholders. Ignoring the fact that you are building for your target market and your potential customers
 
-Teams focused on this metric are essentially providing results for stakeholders, not for the business. 
+Teams focused on this metric are essentially providing results for stakeholders, not for the business.
 
-I have seen companies spend millions of dollars and years of work, only to close out the product and company years later. 
+I have seen companies spend millions of dollars and years of work, only to close out the product and company years later.
 
 ## A real world example (yes, this really happened)
 
@@ -53,7 +53,7 @@ And yet, once it did "ship" (keep in mind that this was a successful publishing 
 
 On time FTW, right?
 
-Instead why not build a product that sells by 
+Instead why not build a product that sells by
 
 1. Shipping fast.
 2. Focus on the right metrics.
@@ -89,11 +89,11 @@ Business, users, revenue... actual results.
 
 Who cares about on time if your product is not bringing in customers and keeping them.
 
-Focus on the right thing. Find your NSM first. 
+Focus on the right thing. Find your NSM first.
 
 The best way to figure out your North Star Metric is to get your team together and figure out what is the key most important value your most loyal customers get from your product.
 
-See Slack's example: 
+See Slack's example:
 
 The value we get from slack is communicating with our team.
 
@@ -103,7 +103,7 @@ Messages sent within the organization
 
 Conclusion
 
-So forget about on-time. 
+So forget about on-time.
 
 Think about your core value: what is it your product does so well for your customers?
 
@@ -116,8 +116,3 @@ Now you have your NSM.
 Measure it as often as you need. (daily, weekly, monthly?) and keep tabs on it.
 
 Align every decision and feature you work on to your NSM. Everything else is secondary.
-
-I publish on [YouTube][1] and [andresmax.com][2], you can also get my latest posts every two weeks in tour inbox by subscribing below 👇
-
- [1]: https://www.youtube.com/andresmax
- [2]: https://www.andresmax.com/
