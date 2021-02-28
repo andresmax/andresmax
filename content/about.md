@@ -8,7 +8,7 @@ layout = "page"
 +++
 
 ## 👋 Hi, I’m Andrés Max
-# Founder, strategist, mentor, ux designer, developer.
+# Founder, mentor, ux designer, developer, tinkerer.
 
 I’ve always loved great visual design and building software. That led me to become a Software Engineer and UX Designer. 10 years ago I quit my job and started [Ideaware](https://ideaware.co).
 
