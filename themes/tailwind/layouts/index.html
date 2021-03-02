@@ -2,7 +2,11 @@
 
 <article class="xl:w-3/6 lg:w-3/6 md:w-4/6 sm:w-5/6 w-5/6 max-w-screen-sm">
 
-<span class="px-2 py-1 text-sm bg-yellow-400 font-medium text-black">Latest</span>
+{{ if and .IsHome ( eq .Paginator.PageNumber 1 ) }}
+  <span class="px-2 py-1 text-sm bg-yellow-400 font-medium text-black">Latest</span>
+{{ else }}
+  <span class="px-2 py-1 text-sm bg-yellow-400 font-medium text-black">{{ .Paginator.PageNumber }}</span>
+{{ end }}
 
 {{ .Content }}
 

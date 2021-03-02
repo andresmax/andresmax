@@ -1,13 +1,25 @@
-{{ define "main" }}
-<article class="text-gray-700 sm:mx-12 mb-16  ">
 
-<span>Latest</span>
+{{ define "main" }}
+
+<article class="xl:w-3/6 lg:w-3/6 md:w-4/6 sm:w-5/6 w-5/6 max-w-screen-sm">
+
+<span class="px-2 py-1 text-sm bg-yellow-400 font-medium text-black">{{ .Title }}</span>
+
+<hr class="my-8 w-24" />
 
 {{ range where .Paginator.Pages "Params.hidden" "ne" "true" }}
-    <ul class="text-gray-700 sm:mx-12 mb-16 ">
-        <h1 class="text-x2 font-medium"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+    <ul>
+        <li>
+          <h1 class="text-4xl font-bold no-underline"><a class="hover:text-red-500" href="{{ .Permalink }}">{{ .Title }}</a></h1>
+          <aside class="my-4 text-gray-400">{{ .Date.Format "2 Jan 06" }}</aside>
+          <h3 class="my-4 text-gray-600">{{ .Summary | plainify | htmlUnescape }}</h3>
+        </li>
+        <hr class="my-8 w-16 bg-red-500" />
     </ul>
 {{ end }}
-<hr/>
+
+
+{{ partial "pagination.html" . }}
+
 </article>
 {{ end }}
