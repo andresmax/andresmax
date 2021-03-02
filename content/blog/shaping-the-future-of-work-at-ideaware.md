@@ -14,7 +14,7 @@ tags:
 
 <!--more-->
 
-{{< youtube id="bcRZnfP9NGo" autoplay="true" >}}
+{{< youtube id="bcRZnfP9NGo" autoplay="false" >}}
 
 I'm very grateful and fortunate to work in an industry that has allowed us to grow in 2020 and we have big plans for expansion in 2021.
 

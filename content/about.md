@@ -8,11 +8,12 @@ layout = "page"
 +++
 
 ## 👋 Hi, I’m Andrés Max
-# Founder, mentor, ux designer, developer, tinkerer.
+# Software founder, designer, developer, tinkerer.
 
-I’ve always loved great visual design and building software. That led me to become a Software Engineer and UX Designer. 10 years ago I quit my job and started [Ideaware](https://ideaware.co).
 
-Since then I’ve founded multiple SaaS products. Currently, I help software founders scale nearshore software teams.
+Since 2006 I’ve had the privilege of strategizing, designing, and shipping web and mobile software products. I’ve built and led teams ranging in size from 1 to 100+ for startup and big companies in tech. In fact it's what currently do as founder at [Ideaware](https://ideaware.co).
+
+I’ve also founded multiple SaaS products and help other founders do so.
 
 I believe you can achieve success by also living a calm and happy life.  
 
@@ -30,12 +31,15 @@ I believe you can achieve success by also living a calm and happy life.
 
 * * *
 
+{{< youtube id="ojGO6sMGf_Y" autoplay="false" >}}
+
 ## What I do
 
--   Husband & father of ~~two~~ three
--   Connect companies with amazing Colombian talent
+-   Husband & father of three
+-   Connect companies with amazing talent
 -   Newbie Youtuber
--   Learn all day
+-   Read & learn all day
 -   Help aspiring entrepreneurs by sharing what I’ve learned
--   Design & build apps
--   Linux junkie
+-   Design & code as hobbies
+
+* * *
