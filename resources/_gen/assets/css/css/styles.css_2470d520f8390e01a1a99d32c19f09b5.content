@@ -32464,6 +32464,16 @@ video {
           animation: bounce 1s infinite;
 }
 
+body {
+  /* -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  background-image: url('/images/bg.png');
+  background-repeat: no-repeat;
+  background-size: 500px;
+  background-position: bottom right;
+  background-attachment: fixed; */
+}
+
 .prose-red a:hover {
   --tw-bg-opacity: 1;
   background-color: rgba(254, 242, 242, var(--tw-bg-opacity));
@@ -32475,6 +32485,10 @@ video {
   background-color: rgba(243, 244, 246, var(--tw-bg-opacity));
   border-radius: 0.125rem;
   text-decoration: none;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.025em;
 }
 
 @media (min-width: 640px) {

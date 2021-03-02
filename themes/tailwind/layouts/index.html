@@ -11,7 +11,7 @@
 {{ range where .Paginator.Pages "Params.hidden" "ne" "true" }}
     <ul>
         <li>
-          <h1 class="text-3xl font-bold no-underline"><a class="hover:text-red-500" href="{{ .Permalink }}">{{ .Title }}</a></h1>
+          <h1 class="text-4xl font-bold no-underline"><a class="hover:text-red-500" href="{{ .Permalink }}">{{ .Title }}</a></h1>
           <aside class="my-4 text-gray-400">{{ .Date.Format "2 Jan 06" }}</aside>
           <h3 class="my-4 text-gray-600">{{ .Summary | plainify | htmlUnescape }}</h3>
         </li>
