@@ -41,5 +41,3 @@ I believe you can achieve success by also living a calm and happy life.
 -   Read & learn all day
 -   Help aspiring entrepreneurs by sharing what I’ve learned
 -   Design & code as hobbies
-
-* * *
