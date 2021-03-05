@@ -26,9 +26,7 @@ body {
    text-decoration: none;
 }
 
-h1,h2,h3{
-  @apply tracking-tight;
-}
+
 
 .subscribe-box{
   padding: 20px;
