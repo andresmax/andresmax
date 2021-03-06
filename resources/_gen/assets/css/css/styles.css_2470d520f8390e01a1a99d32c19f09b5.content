@@ -32491,6 +32491,14 @@ h1, h2, h3 {
   letter-spacing: -0.025em;
 }
 
+#mc_embed_signup{
+  --tw-bg-opacity: 1;
+  background-color: rgba(243, 244, 246, var(--tw-bg-opacity));
+  border-radius: 0.125rem;
+  margin-top: 4rem;
+  padding: 1.5rem;
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
