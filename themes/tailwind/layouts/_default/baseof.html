@@ -6,7 +6,11 @@
         <main class="flex justify-center pt-28">
         {{- block "main" . }}{{- end }}
 
+
         </main>
+        {{ partial "mailchimp.html" . }}
+        
+
         {{- partial "footer.html" . -}}
         {{- partial "ga.html" . -}}
     </body>
