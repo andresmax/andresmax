@@ -1,44 +1,41 @@
 +++
 date = "2020-01-12T00:17:56-05:00"
-title = "How can I help?"
+title = "Contact"
 subhead = "Feel free to send me a note below if there is anything I can help with."
 hidden = true
 menu = "main"
 layout = "page_title"
 +++
 
-<form id="contactForm" name="contact" method="POST" data-netlify="true">
+<form id="contact" name="contact" method="POST" data-netlify="true">
 
-  <div id="form-group">
-    <label>Name</label>
-    <input type="text" name="name">
-  </div>
-  <div id="form-group">
-    <label>Email</label>
-    <input type="email" name="email">
-  </div>
-  <div id="form-group">
-    <label>Message</label>
-    <textarea name="message" placeholder="How can I help?" rows=14></textarea>
-  </div>
-  <div id="form-group">
-    <button class="cta" type="submit">Send</button>
-  </div>
+    <input type="hidden" name="contact" value="contact">
+
+    <label class="text-base font-medium">Name</label>
+    <input type="text" name="name" class="border p-2 w-full mt-2 mb-6 rounded-sm text-base p-4">
+
+    <label class="text-base font-medium">Email</label>
+    <input type="email" name="email" class="border p-2 w-full mt-2 mb-6 rounded-sm text-base p-4">
+
+    <label class="text-base font-medium">Message</label>
+    <textarea name="message" placeholder="How can I help?" rows=14 class="border p-2 w-full mt-3 mb-3 rounded-sm text-base p-4"></textarea>
+
+    <button class="w-full mt-6 bg-blue-600 hover:bg-blue-500 text-white font-semibold p-3 rounded-sm" type="submit">Send</button>
 </form>
 
 <script>
   function validateForm() {
-    var x = document.forms["contactForm"]["name"].value;
+    var x = document.forms["contact"]["name"].value;
     if (x == "" || x == null) {
       alert("Name must be filled out");
       return false;
     }
-    var x = document.forms["contactForm"]["email"].value;
+    var x = document.forms["contact"]["email"].value;
     if (x == "" || x == null) {
       alert("Email must be filled out");
       return false;
     }
-    var x = document.forms["contactForm"]["message"].value;
+    var x = document.forms["contact"]["message"].value;
     if (x == "" || x == null) {
       alert("What! No message?");
       return false;

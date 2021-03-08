@@ -45,9 +45,11 @@
             </li>
             {{ end }}
 
+            {{ with .Site.GetPage "/contact" }}
             <li>
-                <a href="http://eepurl.com/boGiTT" class="font-medium text-md hover:text-red-600" target="_blank">Join my list &rarr;</a>
+                <a href="{{ .Permalink }}" class="font-medium text-md hover:text-red-600">{{ .Title }}</a>
             </li>
+            {{ end }}
 
         </ul>
     </nav>

@@ -7,6 +7,10 @@
         {{ $key }}
     </a>
     {{ end }}
+
+    {{ with .Site.GetPage "/contact" }}
+        <a href="{{ .Permalink }}" class="px-1 capitalize text-base text-gray-800 font-medium hover:text-red-500">{{ .Title }}</a>
+    {{ end }}
         <a href="http://eepurl.com/boGiTT" class="px-1 capitalize text-base text-gray-800 font-medium hover:text-red-500" target="_blank">Join my list &rarr;</a>
     </p>
 
