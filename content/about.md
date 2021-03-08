@@ -1,6 +1,6 @@
 +++
 date = "2020-01-12T00:17:56-05:00"
-title = "About"
+title = "About Me"
 subhead = "Entrepreneur, Designer, Developer, Maker."
 hidden = true
 menu = "main"
