@@ -3,13 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.andresmax.com/</loc>
-    <lastmod>2020-01-29T08:02:56-05:00</lastmod>
+    <loc>https://www.andresmax.com/blog/shaping-the-future-of-work-at-ideaware/</loc>
+    <lastmod>2020-11-11T14:15:59-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/posts/</loc>
-    <lastmod>2020-01-29T08:02:56-05:00</lastmod>
+    <loc>https://www.andresmax.com/tags/software/</loc>
+    <lastmod>2020-11-11T14:15:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.andresmax.com/tags/</loc>
+    <lastmod>2020-11-11T14:15:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.andresmax.com/tags/tech/</loc>
+    <lastmod>2020-11-11T14:15:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.andresmax.com/tags/thoughts/</loc>
+    <lastmod>2020-11-11T14:15:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.andresmax.com/blog/forbes-ten-resons-side-hustle/</loc>
+    <lastmod>2020-09-17T09:51:30-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.andresmax.com/tags/entrepreneurship/</loc>
+    <lastmod>2020-09-17T09:51:30-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.andresmax.com/tags/personal/</loc>
+    <lastmod>2020-09-14T06:45:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.andresmax.com/blog/the-big-pause/</loc>
+    <lastmod>2020-09-14T06:45:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.andresmax.com/blog/on-time-north-star/</loc>
+    <lastmod>2020-08-27T09:33:41-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.andresmax.com/blog/why-product-roadmaps-set-you-up-for-failure/</loc>
+    <lastmod>2020-03-05T08:06:11-05:00</lastmod>
   </url>
   
   <url>
@@ -18,37 +63,17 @@
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/tags/</loc>
+    <loc>https://www.andresmax.com/blog/the-30-linux-challenge/</loc>
     <lastmod>2020-01-29T08:02:56-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/tags/tech/</loc>
-    <lastmod>2020-01-29T08:02:56-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.andresmax.com/posts/the-30-linux-challenge/</loc>
-    <lastmod>2020-01-29T08:02:56-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.andresmax.com/posts/embrace-change/</loc>
+    <loc>https://www.andresmax.com/blog/embrace-change/</loc>
     <lastmod>2020-01-22T07:30:26-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/tags/entrepreneurship/</loc>
-    <lastmod>2020-01-22T07:30:26-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.andresmax.com/posts/bye-bye-wordpress/</loc>
-    <lastmod>2020-01-12T10:27:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.andresmax.com/tags/personal/</loc>
+    <loc>https://www.andresmax.com/blog/bye-bye-wordpress/</loc>
     <lastmod>2020-01-12T10:27:59-05:00</lastmod>
   </url>
   
@@ -58,7 +83,17 @@
   </url>
   
   <url>
+    <loc>https://www.andresmax.com/blog/</loc>
+    <lastmod>2020-01-12T00:17:56-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.andresmax.com/contact/</loc>
+    <lastmod>2020-01-12T00:17:56-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.andresmax.com/</loc>
     <lastmod>2020-01-12T00:17:56-05:00</lastmod>
   </url>
   
@@ -68,52 +103,42 @@
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/posts/a-tale-of-smoothies-and-business/</loc>
+    <loc>https://www.andresmax.com/blog/a-tale-of-smoothies-and-business/</loc>
     <lastmod>2020-01-02T14:16:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/posts/ignore-your-competitors/</loc>
+    <loc>https://www.andresmax.com/blog/ignore-your-competitors/</loc>
     <lastmod>2019-07-03T06:25:21+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/posts/product-backlogs-need-to-die/</loc>
+    <loc>https://www.andresmax.com/blog/product-backlogs-need-to-die/</loc>
     <lastmod>2019-01-16T11:33:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/tags/software/</loc>
-    <lastmod>2019-01-16T11:33:17+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.andresmax.com/posts/dream-start-go-slow-learn-as-you-go/</loc>
+    <loc>https://www.andresmax.com/blog/dream-start-go-slow-learn-as-you-go/</loc>
     <lastmod>2019-01-08T14:06:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/posts/resolutions-suck-do-this-instead/</loc>
+    <loc>https://www.andresmax.com/blog/resolutions-suck-do-this-instead/</loc>
     <lastmod>2019-01-03T17:20:54+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/posts/breathing-new-life-to-my-9-year-old-blog/</loc>
+    <loc>https://www.andresmax.com/blog/breathing-new-life-to-my-9-year-old-blog/</loc>
     <lastmod>2019-01-02T17:38:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/tags/thoughts/</loc>
+    <loc>https://www.andresmax.com/blog/what-does-success-mean-to-you/</loc>
     <lastmod>2015-10-29T13:22:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/posts/what-does-success-mean-to-you/</loc>
-    <lastmod>2015-10-29T13:22:57+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.andresmax.com/posts/the-illusion-of-being-busy/</loc>
+    <loc>https://www.andresmax.com/blog/the-illusion-of-being-busy/</loc>
     <lastmod>2015-10-27T21:02:20+00:00</lastmod>
   </url>
   
@@ -123,78 +148,83 @@
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/posts/good-design-is-as-little-design-as-possible/</loc>
+    <loc>https://www.andresmax.com/blog/good-design-is-as-little-design-as-possible/</loc>
     <lastmod>2015-10-16T14:12:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/posts/need-time-thats-ok/</loc>
+    <loc>https://www.andresmax.com/blog/need-time-thats-ok/</loc>
     <lastmod>2014-10-29T14:00:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/posts/why-are-you-doing-it/</loc>
+    <loc>https://www.andresmax.com/blog/why-are-you-doing-it/</loc>
     <lastmod>2014-10-25T13:22:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/posts/5-things-ive-learned-starting-company/</loc>
+    <loc>https://www.andresmax.com/blog/5-things-ive-learned-starting-company/</loc>
     <lastmod>2014-10-24T14:00:28+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/posts/work-life-balance-will-get-right/</loc>
+    <loc>https://www.andresmax.com/blog/work-life-balance-will-get-right/</loc>
     <lastmod>2014-10-23T14:00:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/posts/know-needed-change-something/</loc>
+    <loc>https://www.andresmax.com/blog/know-needed-change-something/</loc>
     <lastmod>2014-10-22T14:00:47+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/posts/negotiate-time-not-quality/</loc>
+    <loc>https://www.andresmax.com/blog/negotiate-time-not-quality/</loc>
     <lastmod>2014-10-21T14:00:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/posts/4-years-ago-quit-job/</loc>
+    <loc>https://www.andresmax.com/blog/4-years-ago-quit-job/</loc>
     <lastmod>2014-10-20T14:00:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/posts/youre-average-five-people-spend-time/</loc>
+    <loc>https://www.andresmax.com/blog/youre-average-five-people-spend-time/</loc>
     <lastmod>2014-10-19T23:28:21+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/posts/you-build-the-reality-around-you/</loc>
+    <loc>https://www.andresmax.com/blog/you-build-the-reality-around-you/</loc>
     <lastmod>2014-10-18T14:31:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/posts/the-resume-should-die/</loc>
+    <loc>https://www.andresmax.com/blog/the-resume-should-die/</loc>
     <lastmod>2014-08-05T16:06:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/posts/10-things-ask-every-new-client/</loc>
+    <loc>https://www.andresmax.com/blog/10-things-ask-every-new-client/</loc>
     <lastmod>2014-07-30T10:15:39+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/posts/being-an-entrepreneur-outside-the-valley/</loc>
+    <loc>https://www.andresmax.com/blog/being-an-entrepreneur-outside-the-valley/</loc>
     <lastmod>2013-11-20T12:48:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/posts/tips-for-landing-that-design-development-job/</loc>
+    <loc>https://www.andresmax.com/blog/tips-for-landing-that-design-development-job/</loc>
     <lastmod>2013-04-24T22:42:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.andresmax.com/posts/so-i-quit-my-job-whats-next/</loc>
+    <loc>https://www.andresmax.com/blog/so-i-quit-my-job-whats-next/</loc>
     <lastmod>2010-09-10T16:46:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.andresmax.com/what/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
