@@ -26,8 +26,6 @@ body {
    text-decoration: none;
 }
 
-
-
 #mc_embed_signup{
   @apply bg-gray-100 rounded-sm mt-16 p-6;
 }
