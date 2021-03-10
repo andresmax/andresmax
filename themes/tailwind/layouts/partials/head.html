@@ -15,8 +15,11 @@
     {{ end -}}
     {{ hugo.Generator }}
 
-    {{$css := resources.Get "css/tailwind.css" | resources.PostCSS}}
-    {{if (eq (getenv "NODE_ENV") "production")}}
-      {{$css = $css | minify | fingerprint | resources.PostProcess}}
-    {{end}}
+    {{- $styles := resources.Get "css/styles.css" | postCSS (dict "config" "./assets/css/postcss.config.js") -}}
+    {{- if .Site.IsServer }}
+    <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
+    {{ else }}
+        {{- $styles := $styles| minify | fingerprint | resources.PostProcess -}}
+    <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}">
+    {{ end -}}
 </head>
