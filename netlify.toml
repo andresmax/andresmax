@@ -1,0 +1,4 @@
+[build.environment]
+HUGO_ENV = "production"
+HUGO_ENVIRONMENT = "production"
+HUGO_VERSION = "0.80.0"
