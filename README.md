@@ -21,6 +21,8 @@
 
 I define, design, and build products — especially AI-driven ones. Not an operator or CEO type; I'm the builder and product partner in the room.
 
+Recently exited a services company. Now focused on a small portfolio of founder-led products and experiments.
+
 **Strengths:** Product strategy • UX/Design • Software architecture • AI systems • Turning vague ideas into shipped products
 
 ## Connect
