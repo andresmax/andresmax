@@ -14,7 +14,6 @@
 - 🎨 **[mx.works](https://mx.works)** — AI-native product & design studio
 - 🔗 **[tini.bio](https://tini.bio)** — Your link in bio that's actually a website
 - 🙏 **[Gratu](https://gratu.app)** — Minimal gratitude journaling
-- 🦊 **[Maxie](https://maxie.bot)** — My AI assistant (yes, he has a personality)
 
 ## What I Do
 
