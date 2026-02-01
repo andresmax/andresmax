@@ -11,8 +11,10 @@
 
 ## Current Projects
 
+- 🦞 **[ClawDeck](https://clawdeck.io)** — Task management for humans and AI agents
 - 🎨 **[mx.works](https://mx.works)** — AI-native product & design studio
 - 🔗 **[tini.bio](https://tini.bio)** — Your link in bio that's actually a website
+- 🧹 **[tidi.so](https://tidi.so)** — Simple home cleaning schedules
 - 🙏 **[Gratu](https://gratu.app)** — Minimal gratitude journaling
 
 ## What I Do
