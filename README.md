@@ -27,6 +27,7 @@ Recently exited a services company. Now focused on a small portfolio of founder-
 
 ## Connect
 
+- 🔗 [tini.bio/max](https://tini.bio/max)
 - 𝕏 [@andresmax](https://x.com/andresmax)
 - 🌐 [andresmax.com](https://andresmax.com)
 
